@@ -1,0 +1,31 @@
+{
+  "name": "{{CLIENT_SLUG}}-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "trigger:dev": "npx trigger.dev@latest dev",
+    "trigger:deploy": "npx trigger.dev@latest deploy",
+    "connect": "tsx scripts/connect-composio.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@composio/core": "^0.10.0",
+    "@react-pdf/renderer": "^4.1.6",
+    "@trigger.dev/sdk": "^4.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "^4.0.0",
+    "@types/node": "^22.10.1",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
+    "dotenv": "^16.4.5",
+    "trigger.dev": "^4.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
