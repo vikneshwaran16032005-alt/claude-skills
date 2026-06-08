@@ -1,0 +1,3 @@
+SCHABO Condensed — by Tom Robin Karlsson (https://tomrobin.co)
+Free for personal AND commercial use. Source: https://tomrobin.co/schabo_cond
+Converted OTF->TTF (otf2ttf) for ReportLab embedding, 2026-06-05.

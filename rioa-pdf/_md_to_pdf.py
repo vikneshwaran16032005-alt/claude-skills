@@ -125,20 +125,39 @@ HEADING_FACE = HEADING_FONT  # CormorantGaramond or Times-Roman fallback
 H3_FACE = BODY_FONT          # Jost for H3 = different family creates hierarchy variety
 BODY_BOLD = "Helvetica-Bold"  # for inline <b> in body (acceptable family mix)
 
+# SCHABO Condensed = the display face for H1/H2 mastheads. Bold condensed sans
+# (Tom Robin Karlsson, free for commercial use). Falls back to the brand serif
+# if the file is missing. Converted OTF->TTF for ReportLab embedding.
+SCHABO_PATH = FONTS_DIR / "SCHABO-Condensed.ttf"
+HEADING_DISPLAY = HEADING_FACE
+try:
+    if SCHABO_PATH.exists() and SCHABO_PATH.stat().st_size > 1000:
+        pdfmetrics.registerFont(TTFont("SCHABO", str(SCHABO_PATH)))
+        HEADING_DISPLAY = "SCHABO"
+        print("Display heading face registered: SCHABO Condensed")
+    else:
+        print("SCHABO not found; using Cormorant for headings.")
+except Exception as e:
+    print(f"SCHABO registration failed ({e}); using Cormorant for headings.")
+
 
 # ---------- Paragraph styles ----------
 styles = getSampleStyleSheet()
 
+# Headings: SCHABO Condensed display face in charcoal for a bold, modern
+# masthead. Hierarchy by size: large SCHABO (H1) -> medium SCHABO (H2) ->
+# small gold Jost-bold kicker (H3) for contrast and readability at small size.
+# Condensed faces read narrow, so H1/H2 are sized up vs the old serif scale.
 H1 = ParagraphStyle(
     "H1", parent=styles["Heading1"],
-    fontName=HEADING_FACE, fontSize=30, leading=36,
-    textColor=CHARCOAL_DEEP, spaceBefore=0, spaceAfter=12,
+    fontName=HEADING_DISPLAY, fontSize=40, leading=42,
+    textColor=CHARCOAL_DEEP, spaceBefore=0, spaceAfter=13,
     keepWithNext=1,
 )
 H2 = ParagraphStyle(
     "H2", parent=styles["Heading2"],
-    fontName=HEADING_FACE, fontSize=20, leading=26,
-    textColor=CHARCOAL_DEEP, spaceBefore=22, spaceAfter=8,
+    fontName=HEADING_DISPLAY, fontSize=27, leading=30,
+    textColor=CHARCOAL_DEEP, spaceBefore=22, spaceAfter=9,
     keepWithNext=1,
 )
 H3 = ParagraphStyle(
