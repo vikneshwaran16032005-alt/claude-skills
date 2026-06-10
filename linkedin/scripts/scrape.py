@@ -25,14 +25,15 @@ async def run(a):
                                   JobSearchScraper, CompanyPostsScraper)
     async with BrowserManager(headless=True) as browser:
         await browser.load_session(SESSION)
+        page = await browser.new_page()
         if a.type == "person":
-            result = await PersonScraper(browser.page).scrape(a.url)
+            result = await PersonScraper(page).scrape(a.url)
         elif a.type == "company":
-            result = await CompanyScraper(browser.page).scrape(a.url)
+            result = await CompanyScraper(page).scrape(a.url)
         elif a.type == "posts":
-            result = await CompanyPostsScraper(browser.page).scrape(a.url, limit=a.limit)
+            result = await CompanyPostsScraper(page).scrape(a.url, limit=a.limit)
         elif a.type == "jobs":
-            result = await JobSearchScraper(browser.page).search(
+            result = await JobSearchScraper(page).search(
                 keywords=a.keywords, location=a.location, limit=a.limit)
         else:
             print(json.dumps({"error": f"unknown type {a.type}"})); sys.exit(1)
