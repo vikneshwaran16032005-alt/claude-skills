@@ -1,6 +1,7 @@
 ---
 name: niche-research-package
-description: Generate the 3-document client research package for a specific niche — IVOC Methodology Guide, IVOC Worked Example, and Pain Map. Real data only with real citations from web research; never fabricates quotes. Outputs RIOA-brand PDFs ready to hand to a founding client before their immersive research weekend. Use when Vik says "build the research package for [niche]", "make the IVOC + pain map docs for [client]", "research foundation for [niche]", or similar. The bundled deliverable Vik typically ships to founding clients (Saad, Aziz, etc.) ahead of their direct research calls.
+description: "Build the 3-document client research package for a niche (IVOC Methodology Guide, IVOC Worked Example, Pain Map) from real, cited web research, as RIOA-brand PDFs. Use for 'build the research package for [niche]' or 'IVOC + pain map docs for [client]'."
+
 ---
 
 # Niche Research Package

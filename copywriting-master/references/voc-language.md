@@ -23,9 +23,13 @@
 - **Keep asking "but why":** to reach the real dream outcome, ask CS/implementation/execs "Why do buyers buy our solution?" then keep digging — "but why — in pursuit of what, to solve what, what's the impact?" (30MPC/Kyle Coleman)
 - **Mine call transcripts for triggers + build a Messaging Matrix (30MPC):** feed call recordings to AI and ask "what are prospects talking about that would make great cold-email triggers?" Structure the output in the *buyer's* POV, never product language — **Priorities · Current Solutions · Problems · Aspirations.**
 - **Magic-moment question (turns pain into a liftable story):** "When was the moment you realized that was a problem?" — abstract pain becomes a vivid, quotable scene you can drop straight into copy.
+- **Dream-state / "ideal world" question (Patrick Dang):** "In an ideal world, what would you want this to look like?" — surfaces the buyer's own description of the desired outcome (Point B) in *their* words; lift it verbatim into the promise.
 - **The 4 silent questions every prospect asks (in order; a "no" to any drops you out):** 1) Should I pay attention to you? 2) Do I like you? 3) Can you help me do something better? 4) Are you credible? `[Josh Braun — repeated]`
 - **ICP-building exercise (find your *real* market — Sydney Sloan/Barrows):** put CFO (most profitable), CS (least painful), and Sales (highest revenue) in a room → surface the real top-10 customers thriving *now* → "dissect the shit out of them" for the behavioral commonality + the triggering event (leadership change, an AI shift). The hard part isn't the firmographics — it's the *behavioral* commonality + the trigger.
 - **Design-thinking research (Ashley Welch/Barrows):** leave your "Salesforce backpack" at the door and be a fly on the wall — hunt three signals: **surprises**, **hacks/workarounds** (a clue to an unmet need), and **what people value or run out of**. The workaround is where the copy-able pain lives.
+- **Agitation = an interview you put yourself through (Joanna Wiebe):** to write agitation copy, keep interrogating the problem — "what does this *really* cost them?" (time, money, standing, sleep) — layer after layer until the pain is vivid and quantified. Reinforces the "found, not written" ethos: mine the prospect's *exact language* first ("stop pitching, start mirroring") or the solution "just sounds like noise."
+- **Think like a fish, not a fisherman + mine three sources (Joanna Wiebe):** to find your sales-copy message, "think like a fish, not like a fisherman" — get inside the buyer's head, not your own. The three richest VOC mines: **sales-call recordings**, **review sites**, and **journalist articles written about the product/category** (an outsider's plain-language framing of what it's actually for).
+- **Harvest the prospect's vocabulary on the call — talk less, listen more (Flux Academy / Ran Segall):** the #1 sales-call killer is talking too much; let the prospect talk and **collect their exact words** (the way they describe the problem, the outcome, the deadline), then feed those words straight back into the proposal and the headline. The cleanest live version of "good copy is *found, not written*."
 
 ---
 
@@ -38,6 +42,7 @@
 - "I want to travel the world, make money online, and be my own boss."
 - "If I can build pipeline for a company, I can do it for myself too."
 - "If I could do my journey over? Get it done faster so I could enjoy it longer." / "spend money to buy back the rest of my life."
+- **The modest 2026 dream (Iman Gadzhi):** "Most people right now just want to *quit their job* — they don't care about Rolls-Royces or private jets." Don't oversell the yacht; the felt desire is escape from the 9-to-5, not luxury. Lead with "fire your boss," not "buy a Lambo."
 
 ### Firm notions (validate, don't fight)
 - "People buy emotionally and justify logically" — they say it about themselves: "I trust this guy, boom, done."
@@ -50,8 +55,10 @@
 - **"I'm not an expert / I'll look like a fraud."** → "You only need to be one step ahead." / "become an interviewer."
 - **Beginner/hobby shame (reusable across any skill/hobby niche):** "I can't go to the group yet, I'm not good enough" — fear of the "[hobby] police." → counter with "finished is better than perfect."
 - **"It's too saturated / too late."** → "There's always room for the best" / "you're early if you start now."
+- **The "authority-first" procrastination trap (verbatim self-sabotage):** "I want to make more content before I sell" · "I want to be an authority first" · "What if I take their money and can't deliver?" · "Cold DMs don't work." → these are *excuses to avoid selling*, not real blockers — the people who say them "think they're hard workers, but when it comes to push and shove, they just don't put in the work; they live in denial." (Patrick Dang)
 - **"The coaches, gurus, course-sellers are all scams."** (default skepticism toward the whole category)
 - **Money-guilt / wealth-shame (Myron's vein):** "I don't really care about money" · "I'm not that greedy, I want some left over for somebody else" · "I don't want people to judge me / think I'm a bad person for having money" · "money is the root of all evil" · "I want to get into heaven." → reframe: "It's the *love* of money; love people, use money."
+- **"I'm an introvert, I'm bad at sales" · "cold calling doesn't work" (Iman Gadzhi):** the two excuses people tell themselves "to avoid the pain of evolving." → flip: it's a learnable skill, not a personality trait — a level-3 helping a level-1 is as valuable as a level-10 helping a level-8 (you only need to be one step ahead). `[corroborates Patrick Dang's "cold DMs don't work" excuse-not-blocker above]`
 
 ### Identifications
 - "[Coach] was just like me when he started… maybe if I work with him, I can too." (aspirational-mirror — they buy the coach, not the coaching)
@@ -63,6 +70,7 @@
 - "More month left at the end of the money than money at the end of the month." / "robbing Peter to pay Paul." (Myron — recurs constantly)
 - Decision paralysis: "there's billions of directions — if I just knew which one, I'd go full speed."
 - Consumes ~7 hrs of content (Dunbar 7-11) before buying.
+- **Creator who won't monetize (Iman Gadzhi — the persona to sell monetization help TO):** "They *like* making content; they don't want to think about monetizing — that's like asking a chef why he doesn't know how to DJ." The audience-rich, revenue-poor creator wants the money handled *for* them, not another thing to learn. `[the wedge for a rev-share / done-for-you monetization offer]`
 
 ### Common words / phrases
 - "freedom" · "stuck / trapped" · "golden handcuffs" · "the matrix" · "bet on yourself" · "escape the 9-to-5" · "throwing spaghetti at the wall" · "dying inside every Monday" · "stuck like Chuck in a pickup truck" · "broke as a joke" · "sick and tired of being sick and tired" · "day one or one day."
@@ -73,6 +81,25 @@
 - "I tried it, it didn't work" / "I was posting, nobody liked them, so I went back to what I knew."
 - "I want to write a book / tell my story." → (the trap: "nobody cares about your story but you and your mama").
 - "Everything sounds good… maybe I can get started a month from now." (the soft stall)
+- "I would send hundreds of emails and nobody would respond and I really couldn't figure out why." (the beginner cold-outreach despair — felt pain to mirror in a lead aimed at this market.) (Patrick Dang)
+- "I was working longer hours getting paid less than when I was in the corporate world… more miserable than I was before entrepreneurship." (the disillusioned-escapee pain after a botched first attempt — mirror *this* before you sell the better path; the enemy isn't the 9-to-5, it's the failed escape.) (Ravi Abuvala, client Kevin)
+- "You don't know what you don't know." (why early founders quietly stall — they can't even name the gap; name it *for* them and you become the guide.) (Ravi Abuvala)
+
+### Money-mindset / incongruent-buyer self-talk (v20 — Jordan Belfort + Billy Gene, money-mindset clips)
+- **The incongruent buyer (won't get the result):** "I want to be super rich, but I don't really want to put in the effort." / "A champagne vision and a beer work ethic — it ain't going to work out." Surface the mismatch instead of selling around it. (Jordan Belfort)
+- **The two real blockers under $1M:** "There's only two things stopping you: ignorance and arrogance." (Billy Gene)
+- **Skepticism-as-avoidance:** "You're only skeptical because you don't want to do the work." Names the resistance as a dodge, not a logic problem. (Billy Gene)
+- **The universal pre-loss objection people tell themselves:** "Yeah, that's true of that business, but not mine." The special-case exemption that precedes losing. (Billy Gene)
+- **Money-isn't-enough tell:** "I've been rich and happy, rich and miserable, poor and miserable — but never poor and happy." Money is necessary, not sufficient; sell the peace, not just the cash. (Jordan Belfort)
+
+### Beginner/intermediate creator segments + seller self-talk (v21 — Pat Flynn, list-building audience)
+- **Beginner segment (overwhelm + fear of waste):** "I'm overwhelmed from all the information available to me — I don't know where to start." / "I'm afraid of wasting my time and money." The two felt blockers at the very start; mirror both, then offer a single clear first step.
+- **Intermediate segment (scattered + stalled):** "I'm fearful I'm just wasting my time." / "I'm trying to do too many things at once." / "I don't know what my next steps should be." / "I'm stuck between $0 and $500 a month." The engaged-but-plateaued voice — they don't need motivation, they need *sequencing*.
+- **The seller's OWN block (disarm before any pitch):** "I feel icky selling." / "This feels slimy or salesy." The single most common reason a creator won't make the offer — flip selling to serving. `[see the serve-don't-sell objection-flip, swipe-file]`
+- **Desired internal state at the price point:** "You want it to feel like a *no-brainer* when you price something" — engineer the offer so the buyer's own reaction is "this is obviously worth it," not "let me think."
+- **Audience-fit belief (firm — validate):** "My vibe attracts my tribe" — they believe the right people self-select to them; speak to the specific person, not everyone.
+- **Bar for a good lead magnet (the reaction to engineer):** "Oh thanks — I'd gladly exchange my email address for *this*." The reader should feel they got the better end of the trade.
+- **Reply-driver harvest question (feed to the ivoc-researcher):** "What are you struggling with right now?" / "What's your number one challenge?" — the open prompt that surfaces the segment's pain in *their own* words.
 
 ---
 
@@ -91,14 +118,19 @@
 - **Self-serve-then-arrive-decided (2025–26):** "Five minutes before the meeting I jump into ChatGPT and ask it to tell me everything I need to know about you." They arrive 60–70% decided with *zero* tolerance for a rep who adds no insight. (Adam Carr)
 - **Speed-to-lead beats best-fit:** "If one vendor gets back to me in 24 hours and four take a week, I'll progress the fast one even if they're not the best solution." The research phase is the longest part of the cycle — first responsive vendor often wins. (Eugene "Blue" Bowen)
 - **"Buying and selling is fundamentally broken"** — "buyers have to sell internally, they don't want to talk to reps, and they wish the whole thing were automated." (Jonathan Lister)
+- **Shelfware distrust of top-down sales (a16z):** IT/buyers fear "they'd buy something and no one would use it… some slick sales guy who sold it to a golfing partner." The origin of the adoption-risk fear — counter it with bottom-up proof of real usage.
+- **The end-user who needs ammo to sell UP (a16z):** "Help me sell this inside my company… what do I say to my CIO to convince him?" Your buyer often isn't the decision-maker — arm them with the internal pitch. `[corroborates "buyers know their job, not how to buy"]`
+- **Technical buyers buy differently (a16z):** "developers want to *use*, not *buy*"; "they don't like to take classes about other people's products — they like to understand everything themselves." Sell to devs with docs + a frictionless trial ("you sign up, you can send an email in the first minute"), never a pitch.
+- **Enterprise AI-adoption fear (a16z):** "no one wants to run a brand campaign and have a hallucination that violates the trust they have with their consumer." De-risk with human-in-the-loop review ("if I can review every action before it goes out and it's faster, maybe I trust it *more* than the humans").
 
 ### Brush-offs (verbatim — the canonical bank)
 - **First-5-seconds:** "Who is this?" · "How'd you get my number?" · "Is this a sales call / are you a telemarketer?" · "Your name doesn't ring a bell." · "I'm running into a meeting / I'm right in the middle of something." · "What are you selling?" · "Take me off your list." · the clipped exasperated **"Fine — how can I help you?"** (= "I know you're a telemarketer, get on with it so I can reject you").
+- **The "I know the decision-maker" brush-off (verbatim):** "I'm not interested. I know [the CEO] personally, so if I ever decide I need to do something, I'll just call him directly." (a name-drop deflection that asserts they own the relationship and don't need you — 30MPC.)
 - **Post-ask / back-end:** "We already have something in place." · "We're using [competitor] / we just signed a contract." · "We don't have any budget / there's a spending freeze / budget's already allocated." · "Now's not the right time / we're really busy right now." · "Call me back in 6 months / next quarter." · "Just send me an email / some info." · "That's not my responsibility." · "We do it all in-house."
 - **Over-demoed brush-offs (you showed too much):** "You've given me a lot to digest here." · "It feels like a bit more than what we need at this stage." · "We're not ready for this / not there yet." · "That sounds awfully complicated, I'm not ready to buy — there's too much involved." (the complexity objection — really a triggered need for *order/safety/time*, per Jake Stahl).
 - **Soft / dismissive demo-enders (the polite "no"):** "Sounds interesting, why don't you send me some info and follow up in a couple weeks." (the universal soft brush-off that ends every bad demo). · Vitamin-not-painkiller dismissal: "that's a nice-to-have, it might fix a small problem, but it's not a huge problem." · Ill-timed-outreach during a merger: "Dude, this is literally not the time — I have a million other things going on right now."
 - **Inflated-requirements / mismatch tells:** "They want the BMW 7-Series at a Toyota Corolla price." · "Every prospect wants every appetizer on the menu — until they see the check." · "We're just looking around because we're growing." · "How can we sharpen the pencil?" · "We have other vendors who give us an 80% discount."
-- **Price/budget objection (verbatim):** "It's not that I don't see value in what you do, but what you're offering seems a little bit expensive." · "You're priced at $1,500 a month and honestly we just can't swing that budget — I need your best price." · the **always-needs-a-win buyer:** "I always need my 20% off… even if the suit fits, I look in the mirror and say 'that doesn't look that good' so I get my deal" (price resistance is often a *ritual*, not a real blocker).
+- **Price/budget objection (verbatim):** "It's not that I don't see value in what you do, but what you're offering seems a little bit expensive." · "You're priced at $1,500 a month and honestly we just can't swing that budget — I need your best price." · **anchor-low pushback (verbatim):** "Eight thousand dollars… I feel your price is too high. I was expecting a price closer to four thousand." (the buyer names a number half yours to set the anchor — Patrick Dang) · the **always-needs-a-win buyer:** "I always need my 20% off… even if the suit fits, I look in the mirror and say 'that doesn't look that good' so I get my deal" (price resistance is often a *ritual*, not a real blocker).
 - **2025–26 build-vs-buy (dominant objection, ~73% of sellers hit it):** "We can build it ourselves with AI." · "Why can't I just build that myself? I just built this kickass app — why would I buy yours?" · "We don't want to lock into a 3–5-year contract." · "We're a Microsoft shop / Google's giving us credits."
 - **Hard rejections:** "F you, never call here again." · "Not interested. Please don't reach out again. This isn't for us." · "Our supplier is my sister-in-law and we're never changing unless she dies."
 
@@ -121,11 +153,16 @@
 - **The cold-call internal monologue (verbatim, to mirror):** "You think I'm going to dump all the priorities I've been mapping out to jump into a sales cycle with some Rando out of the blue?" That's the wall every opener has to get under.
 - **The ghosting monologue:** "I can't deal with this right now… delete, delete, delete — because I don't want to be reminded about a decision I may or may not want to make." Indecision *feels safer* than a no. (Doug Landis)
 - **The status-quo default, quantified:** "**>60% of well-qualified opportunities end in 'do nothing'**" — name this reality to the buyer up front and make *staying put* feel like the risky choice. (Doug Landis)
+- **The "I have no problem" deflection (verbatim):** "I don't really have a [connection-rate / pipeline / whatever] problem." Doesn't mean a problem doesn't exist — it means they've had ~30 seconds of context and no reason yet to admit one. Don't accept it as a fact; it's a reflex to an unproven claim. (30MPC)
+- **Buyer negotiation-games to expect late-stage (verbatim):** "they go dark, they mention a competitor, they say 'we actually might do this in-house.'" These three are often *leverage plays*, not genuine exits — manufactured pressure to extract a discount, not real disqualification. Read them as a price move first, a death-knell second. (Arman Farrokh / 30MPC)
 
 ### Firm notions / trust-killers
+- **"People don't like to be *sold* — but they love to *buy*."** "Nobody likes sales; more specifically, we don't like being sold to — we don't like feeling somebody has a hidden agenda." Lead with diagnosis/help, never a pitch. (Patrick Dang; Brand Master Academy)
+- **A reflex objection ≠ a real no:** "a sales objection is just a reason the prospect isn't ready to buy — it doesn't mean they don't want to buy"; and "a *no* is okay, but a *maybe* is just a waste of time." (Patrick Dang) `[corroborates "the enemy is maybe, not no"]`
 - Every seller claims "best service, best price, best coverage" — "I've heard it from every rep," so it commoditizes you and *lowers* trust.
 - Buyers smell weakness: "a lot of words but you haven't said anything yet" — charlatans "lead with flattery and not substance," flowery language going nowhere, instead of numbers + a plain resume. Verbatim consultant/agency objection: "we don't understand what they're saying" — buyers want "you do this and this much revenue will come," not "change your match types / do more lookalikes."
 - Trust-killer phrases the buyer hears: "to be honest / honestly" = "everything before was a lie"; "trust me" = instant distrust; "just following up / checking in" = "calling for my money."
+- **The fuller "words prospects quietly recoil from" list (Patrick Dang — "7 words to avoid"):** *problem, buy, pitch, "honestly / to be honest", contract, "trust me", objection* — each carries a negative or distrust-triggering connotation. Swap them at the source (the actionable swap-table lives in `swipe-file.md`): problem→challenge, buy→invest/move forward, pitch→presentation, contract→agreement.
 - Buyer-side gold (Grady Ligon, CIO): "Nobody likes to be sold to." · "People trying to impress me is creepy and off-putting." · "I'll tune you out in the first minute if it's clear you don't understand my business." · "The email is so easy to send, so easy to ignore." · "Why would I work with a company I've never heard of because YOU think you meet my needs?" · Deals that go well "always start by talking about something other than business."
 - **Personalization is vanishingly rare — and noticed:** "I can count the personalized notes I've gotten in three years on one hand." (a VP buyer). The reason it's so rare: "It's easier to drop somebody into a cadence and just hit send than to take an extra couple minutes to find something relevant." (Alyssa Merwin, LinkedIn)
 - **Templated-email tell (instant credibility kill):** "I literally got prospected by a company that *sells prospecting training* — and I'm like, dude, this is obviously a templated email, cut the BS." (Jason Bay)
@@ -158,6 +195,15 @@
 - Buy-signal phrases: "What can I do for you?" / "Why are we talking?" / "I'm doing well, how are you?" (asks back = green light).
 - Why they switch / buy at all: to "make more money, save money, or mitigate risk" — and personally, to "look good, get promoted, keep their job."
 - Out-of-budget-cycle reality: "I agree it's important, but you missed the budget window" — out-of-cycle asks need sub-1-yr ROI or an acute problem.
+- **Frustration words to listen for (the pain-tells that signal a real emotional driver):** "held back," "limited," "our potential is capped." When you hear them, deepen — don't pivot to pitch. The probe that opens people up: **"How does that make you feel?"** (moves the conversation from facts to the emotion that actually drives the buy — Patrick Dang).
+
+### Cold-traffic & cold-email buyer mindset (v20 — Ravi Abuvala)
+- **The BS-meter firing:** "I get emails like this every single day." Name it, then separate yourself with one specific win.
+- **The four reflexive cold-email objections (answer all before the CTA):** "Who are you? Why me? Why should I care? What's in it for me?"
+- **First-call skepticism (cold/ad traffic):** "Is this person telling me the truth or not?" The default posture you're selling against on a first call.
+- **The trust-recession framing:** "We're at the lowest point of person-to-person trust in the U.S. in 40 years" — and ~50% of opt-ins now give fake info. Why content-before-the-call (not a better pitch) is what earns the meeting.
+- **The full stall stack:** "Let me think about it." / "I need to talk to my parents / my spouse / the rest of my team / the tooth fairy." Treat the deferral as a hidden objection to surface on the call.
+- **The under-educated prospect:** "Yeah, I think you guys like help businesses, but I don't really know what it exactly is that you do." / "I don't have as much social proof as you guys do." A clarity + proof gap, not a price problem.
 
 ---
 
@@ -215,6 +261,16 @@
 - The reply that proves great copy: "I know you're trying to sell me, yet I read the whole thing — why am I opening your newsletter if I know I'll be sold?"
 - "It sounds too good to be true." (instinctive reaction to a big claim — name it and keep going)
 
+### Belief, not price, is the real block + emotion-first deciding (v21 — Jason Fladlien + Jeremy Miner, via *Young and Profiting*)
+- **The price objection is a smokescreen for self-doubt (Jason Fladlien):** "Price is a smokescreen — the real objection is belief: 'I don't think *I* can do this.'" The buyer who balks at the number usually doesn't doubt the *offer*, they doubt *themselves*; mirror and dissolve the self-doubt, don't discount. `[see Install-belief, field-frameworks]`
+- **The decision is emotional first (Jeremy Miner):** "Every decision you make as a human being starts with the emotional side of the brain." The buyer feels first and justifies after — win the feeling before you offer the logic, or the logic never lands.
+- **They trust their own words, not yours (via *Young and Profiting*):** "People believe 0% of the words out of a salesperson's mouth, but 100% of the words out of their own." Build the page so the buyer says the value *themselves* — self-diagnosis, "what would this be worth to you?", their own stated wants fed back.
+
+### Dream-validation + universal beginner self-doubt (v22 — Jason Fladlien + YAP guest reel)
+- **The dream-validation quote to engineer (Jason Fladlien):** the reaction that proves your teaching landed — "**I've never heard anybody put it the way you do. I've paid $5,000, listened to 500 hours, and what you said in the first 15 minutes blows all the rest combined.**" Build content/copy that earns *this* line.
+- **Universal beginner self-doubt to mirror (Fladlien):** the buy-blocking self-talk to name and dissolve — "**I've failed every time before**" · "**It's too hard for me to learn**" · "**This is too good to be true — maybe *she* can, but *I* can't**" · "**Am I too old? Is it too late?**" Each is a belief objection wearing a price/skepticism mask. `[see Install-belief, field-frameworks]`
+- **The demand-pull signal that a product should exist (Fladlien):** when the audience says "**Can you please do a course on this? Can you write all your learnings in one place? I'll pay you for this,**" the market has pre-validated the offer — sell what they're already asking to buy.
+
 ---
 
 ## Market: Founders & operators (pitching investors, selling/exiting, buying for the business)
@@ -229,6 +285,25 @@
 - **Firm/shakeable:** "How do I get a client if I don't know anyone who wants ads… I'm too busy fulfilling what I sold." Retainer-killer: client made $100K from your ads, you got $1,500, "so they locked in gains and cancelled."
 - **Common phrases:** "show up and throw up" · "split-test myself into poverty" · "one-legged stool" (channel concentration) · "bleeding-neck problem."
 - **Other:** "We don't have a budget, but we'd love a proposal." (cue to pivot done-for-you → done-with-you)
+- **The deal-to-deal pain state, in their words (Greg Hickman — twist this knife):** "stop winging it" · "living deal to deal" · "working for scraps" · "always starting from scratch" · "solving different problems for different people instead of *the same* problem for different people." The plateau feels like chaos, not just low revenue.
+- **Desperation-selling self-talk (Greg Hickman):** "taking clients just because they have a pulse and a credit card" · "you scramble, drop your standards, and take whoever will pay just to get revenue in the door." Name this shame to sell the calmer, choosier alternative.
+- **The dream outcome, concrete (Greg Hickman):** "pay yourself multiple six figures," "4-day weeks," "pick up and drop my kids off from school every day." The freedom is family-time and choice, not just the number.
+- **The "leads but no sales" plateau (Greg Hickman):** "I'm getting tons of leads, but no one is buying." (The bottleneck is the offer/close, not traffic — a cue to sell positioning + sales process, not more lead-gen.)
+- **Churn / graduation trigger (Greg Hickman):** "We're going to bring this in-house" / "We're done" — often fired *because you did the job too well*, not because something went wrong (→ pivot to a documentation/enablement/advisory upsell, never treat as a loss).
+- **What the specialized buyer actually cares about (Greg Hickman):** in a deeply-niched sale the buyer's *only* real question is "do you understand how to help me get more [cases/patients/leads] from the internet?" — "they don't know or care who the founder is." Write to the outcome, not your origin story.
+- **The lost-deal bewilderment, verbatim (Greg Hickman — twist this for a sales-training/positioning offer):** "The call went great… but then they didn't move forward." / "This was my *dream client* and they didn't buy — why?" The agency owner blames mystery, not the missing belief/clarity; sell them the diagnosis.
+- **The content-paralysis self-talk (Greg Hickman):** "I know I need to show up more, I need to produce content — I just don't know what to *say*." The blocker is messaging, not effort; a cue to sell positioning/message clarity, not "post more."
+- **The over-giving trap, in the buyer's words (Greg Hickman):** "Wow, you were so generous with your time that I feel like I don't even need you — I can do it myself." When an agency owner front-loads all the value for free, the prospect walks; name this so they sell the *implementation*, not the plan.
+- **Self-named bottleneck on a live audit (Ravi Abuvala — RIOA-relevant: the founder diagnosing himself):** "I feel like we could get more booked calls out of that… we're running into some close issues." When an agency owner names his own gap out loud, mirror it straight back and sell the fix — don't re-diagnose what he just handed you.
+- **The skeptical high-value lead's killer question (Ravi Abuvala):** "Who else have you done this for in my *exact* niche?" Proof-in-niche is the gate for a sophisticated buyer — lead with the exact-match case study or you don't get the meeting. `[corroborates "show me a portfolio = give me confidence you're right to buy from," SMB market]`
+- **Universal closing-objection verbatim bank (swipe for FAQ / VSL pre-emption — Ravi Abuvala + Jordan Platten):** "I can get it cheaper elsewhere" · "we're already working with a competitor" · "we don't have the time right now" · "I need to talk to my spouse" · "just send me more information." The five that recur across nearly every B2B close — pre-answer them in evergreen copy so they never form. `[the flips live in swipe-file objection-flips; see Objection = an unanswered question, field-frameworks]`
+
+### Dream outcome, bad-fit tells & buying psychology (v20 — Ravi Abuvala)
+- **Dream outcome in their words:** "I'm booked out for two months — what do I do?" / "I want a business that serves me instead of me serving it."
+- **The wrong-but-common belief to target:** "Everyone just thinks they need more sales calls and that's going to solve all their problems." (Often the bottleneck is the close, not the lead count.)
+- **Bad-fit vs dream buyer (qualify on this):** bad-fit — "Dude, I need this one YouTube video to bring me two sales or I'm not going to make my next payment." dream — "you'll invest tens of thousands a month for a couple months before you see the true ROI."
+- **Low-ticket sets the high-ticket expectation:** "If this is what I get for $7, that's what I'll get when I pay $3k–$10k." Over-deliver on the cheap front-end; it's the trust deposit on everything above it.
+- **Content fatigue:** entrepreneurs "are kind of tired of the short-form TikTok-like stuff" and want "really valuable, dense information." Depth out-converts dopamine for this buyer.
 
 ---
 
@@ -247,5 +322,502 @@
 - **Local home-service buyer (trust + friction):** trusts a *named human with a photo* ("Robert answers 90% of our calls, he's been with us 7 years") + risk-reversal stated plainly ("risk-free, damage-free, death-free") + low-friction CTAs (click-to-call, text); responds to day-of-week coupon urgency ("Wednesday's coupon," always the same $20 off, feels "today-only"); and to price-transparency up front ("we're not the lowest price — if you pick the lowest, here are the problems").
 - **Frictionless-first consumer (games / apps):** "you don't need to download, you don't need to sign up, just play" — chess.com / sudoku.com put a live board on screen instantly, then upsell the app. The micro-commitment converts the visit *before* any ask.
 
+### Digital-product / creator-economy buyers (NEW v17 — CharliMarieTV [fonts, t-shirts, design products] + Siobhan Miller [hypnobirthing course] via Mike Killen)
+- **The "small luxury" price objection, verbatim (CharliMarie):** "things are tough right now… a font is a bit of a luxury for us at the moment." For discretionary creative/digital products, the objection is rarely the number — it's permission to spend on a "want." Sell the want, or remove the missing proof, not the price.
+- **Buyer evangelism (the reaction to engineer — CharliMarie / Siobhan):** "I love this product so much I want my friends and family to know about it"; buyers were "evangelical," "absolutely raving about it." North-star reaction: a product so loved it recruits its own referrers.
+- **Identity / belonging desire (CharliMarie — t-shirt buyers):** they "wanna wear that passion with pride… like a uniform that all us [pop-punk] kids could wear and really feel part of something." For identity/merch products, you're selling *belonging*, not the object.
+- **The angle hiding in the testimonial (Siobhan):** the recurring student line "Why doesn't everyone know this? This stuff is logical, it makes people's births better" *became* the marketing angle. Mine the offhand "why doesn't everyone know this?" reaction — it's your hook in the customer's own voice.
+
 ---
-*Pruned vague one-offs. Mapped to the IVOC 7 buckets so the ivoc-researcher can pull market-matched language directly. This cycle (v7 — a single channel, John Barrows + guest bench): the densest part of the cycle's value. Further deepened the **B2B / enterprise buyer** market — "the way people buy is no longer the way we sell" (60–70% decided before sales), the ChatGPT-before-the-meeting self-serve behavior, speed-to-lead-beats-best-fit, "buying and selling is fundamentally broken"; the decode bank (dismissive objections ≈50%/top-5≈75% are *reflexes*, the "some Rando out of the blue" monologue, the "delete-delete-delete" ghosting monologue, ">60% end in do-nothing"); trust-killers (gift-card-reads-as-insulting, the "feeling duped"-by-AI trigger, trust-is-the-tiebreaker-when-specs-tie, "buy from people they *trust* not *like*", industry-expertise-is-the-price-of-entry); the build-it-myself "kickass app" line; and the cleanest indecision verbatim ("my name on the DocuSign"). Added two harvest methods — the **ICP-building exercise** (CFO/CS/Sales-in-a-room → behavioral commonality + trigger) and **design-thinking research** (surprises / hacks / what-they-run-out-of). All single-channel — source-concentration caveat applies. As new niches enter the harvest, add them as new sections rather than diluting existing ones.*
+
+## Market: SMB / local-business owners buying done-for-you services (marketing · lead-gen · AI automation)
+*(NEW v13 — the single most RIOA-relevant vein in the corpus: Jordan Platten's local-business prospects [clinics, gyms, real-estate, restaurants, trades buying lead-gen] + Liam Ottley's & a16z/Waseem Daher's AI-services buyers. This is exactly who RIOA's founding clients sell to — busy owners buying a result they can't or won't produce themselves.)*
+
+### Desires / dream outcome
+- **The central AI-buyer pain (start here):** "a lot of people have a lot of ideas about AI but they don't really know where and how to start." (Liam Ottley)
+- **Peace of mind + hand it over:** "We're just not finding time to do it properly… it'd be nice to hand it over and say 'you concentrate on this for us.'" / "It's so much peace of mind" (leads, follow-up, confirmations, reschedules all handled). (Jordan Platten, Liam Ottley)
+- **Just move the one number:** "Just increase the appointment booking rate ~30%… as long as you do that, I don't care about the rest" — the rest "just slows you down." (Liam Ottley)
+- **Certainty + leverage, not novelty:** "what people actually want is certainty and leverage — stable revenue, consistent results, time savings, risk reduction; AI is just the delivery mechanism." (Liam Ottley)
+- **Ease / fewer moving parts:** "they want ease, simplicity, you to remove complication" — owners are buried in staff, pricing, competition, bookkeeping, tax; "they want fewer subscriptions… things that work within their existing tech stack." (Liam Ottley)
+- **A vendor on their team:** "I really need someone to solve this problem for me… someone who feels like they're on my team, someone that has my back." (a16z / Waseem Daher)
+- **High-end positioning desire (premium/luxury buyer):** "I'm not there to chase the market to the bottom… I want the very well-off person prepared to travel for the best service. Five or six really good bookings a month from areas we're not hitting appeals to me." (Jordan Platten)
+- **The DFY "off-the-hook" desire (Greg Hickman):** the done-for-you buyer wants to feel "off the hook," "warm and fuzzy" — *not* to own the work — "we got this, you'll have nothing to worry about." They're buying the *absence* of worry, so sell the feeling of having handed it over, not the deliverable. `[the emotional core of any DFY offer — but see the DWY counter-objection in field-frameworks]`
+
+### Firm notions (validate, don't fight)
+- **"They want it done; they don't really care how it gets done."** (a16z / Waseem Daher) — sell the outcome, never the mechanism.
+- **Pay-more-for-better:** "folks are willing to pay more if it's better… they care a lot more about it being better than about it being cheaper." (a16z / Waseem Daher)
+- **The DIY fantasy (hold it gently — real but self-defeating):** "they want the *illusion* that they can jump in and do it themselves… but the reality is most are so busy they just want it working for them"; "many think they know how to configure [the tool], but they really don't — they play around, don't reach the desired state, then push it aside because they're busy." (Liam Ottley)
+
+### Shakeable notions / fears (the real objections under the surface)
+- **Twin AI-buyer emotions (reassure BOTH at once):** "they don't want to get left behind and want to feel included, but they also don't want to get taken advantage of." (Liam Ottley)
+- **Silver-bullet expectation to reset:** "the most dangerous thing about AI for businesses is thinking it's a silver bullet that's going to fix everything." Under-promise instead: "we reduce specific task workloads ~80% so you can focus on higher-priority work." (Liam Ottley)
+- **The three hidden objections in the owner's head:** "Will this disrupt my team? Will it work with what we already use? Is the data and IP safe?" + the team's own fear for their jobs. (Liam Ottley)
+- **Burned-before apprehension (verbatim):** "When you're a small business you've used so many people and wasted quite a bit of money… you go in with some trepidation because you've been hit so hard." (Jordan Platten)
+- **The "are you going to burn me too?" trust-test (verbatim — Jordan Platten):** a prospect torched by past agencies — "Are you going to burn me too? I want to see your *entire* operation before we get into this." Distrust shows up as a demand for proof/transparency *before* any commitment; meet it with radical openness, not more promises.
+- **"Throwing money down the drain" (the failing-current-solution pain):** "Clearly with Google we're just throwing money down the drain… it's just not working, not at all." (Jordan Platten)
+
+### Characteristics (the buyer's reality — mirror it)
+- **The overwhelm:** "We're just not finding time to do it properly… I'm a teacher, I can't keep back-pedaling." / "I felt like I'm working 24/7, but the [business] isn't growing because I'm the one doing all the work." (Jordan Platten, Liam Ottley)
+- **The annoyed, over-pitched prospect (real-estate / high-volume-pitched owner):** "They get dozens of messages like us every day… they're so annoyed with us." (Jordan Platten)
+- **The hyper-local bleeding-neck pain, verbatim (Jordan Platten):** "We're really struggling on *Tuesdays*… I think that new competitor down the road is killing our business." Owners name the problem in concrete, local, day-of-the-week terms — mirror that specificity, never abstract "grow your revenue."
+- **Blue-collar bullshit-detector:** "Who the hell is this donut trying to sell me?" — why casual, locality-led, plain language beats "I'd love to get you an extra 30 leads per month." (Jordan Platten)
+- **What they want from a vendor:** "they just need that person they can trust who's not going to rip them off and can give them a real honest explanation of the state of the technology." (Liam Ottley)
+- **The introvert / non-seller owner:** "perfect for people who don't want to do lots of sales… here you just sit in your cabin and build." (Liam Ottley)
+- **What they actually lie awake thinking (Mike Killen — the real problem in their own words):** "How the hell am I going to beat my competition?" · "Where do I find my next employee?" · "How can I sell more loaves of bread?" — NOT "I need a marketing consultant" or "my SLO traffic funnel." Write to the bedside worry, never your service category.
+- **The offhand line that outsells every feature (the "Third Lung" phenomenon — Mike Killen):** a customer's casual aside — "it makes me feel like I have a Third Lung" — outsold every scientific benefit claim and sold the product out. Mine real customer language; one weird, human line beats a polished claim.
+- **The reaction to an honest reset:** "Thank you for being refreshingly open with me." Owners are braced for spin, so plain honesty — even resetting your own promise *downward* — earns disproportionate trust. (Mike Killen)
+
+### Other (objections + buying-signal verbatims)
+- **Price/affordability stall (verbatim):** "I like your service, I like the way you explain it… but at this stage I think it'll be too much — not me, the company can't afford that right now." (Jordan Platten)
+- **Wait-for-budget excuse:** "You never know what happens in two or three months… I've done so many quotes and people are still sitting on them. From July onwards we'll see." (Jordan Platten)
+- **The impatient buyer (green light to cut to it):** "Let's cut to the chase — what do you provide? If you're going to give me 100 kids, how are you going to get them?" (Jordan Platten)
+- **Buyer self-selection line (let them pick the lane):** "if you want me to implement this for you because you have more money than time, then I'm your guy." (Liam Ottley)
+- **The DIY-then-give-up pattern (why they finally pay an outsider):** "We tried to use [the AI tool] ourselves. It didn't really work. Can you help us figure it out? We'll pay you a couple thousand a month." (Patrick Dang, Liam Ottley)
+- **Hidden objection decode — the portfolio request (Mike Killen):** "Have you got a portfolio / examples?" rarely means "show me your work" — it means **"give me confidence you're the right person to buy from."** Answer the *confidence* question (proof, authority, a guarantee), not just the literal ask.
+- **The price-objection-then-ghost pattern (verbatim — Mike Killen):** "**Whoa, that's a lot of money — I wasn't expecting to spend that,**" and then they vanish entirely. The sticker-shock stall that *disappears* rather than negotiates; pre-empt it by seating the price against the cost of the problem *before* you name the number. `[the close-side handling lives in swipe-file → "'too expensive' isn't an objection"]`
+- **The creative-payment-dodge menu (verbatim — Jordan Platten):** when an SMB owner can't (or won't) pay the fee, it comes out as offers to restructure the risk onto you — "We can't really afford that right now," "Can I pay you on *commission*?", "Can I pay at the end of the month?", "Can I give you a *percentage of my company*?" Read these as a value/belief gap, not a budget fact — they want the result but don't yet believe you'll deliver it.
+- **The decision-maker-missing stall (verbatim — Jordan Platten):** "Sounds great, but we need to check this out with *Bob the owner*." A manager who likes it but can't sign → triggers a weak second-hand pitch; rebook with the real decision-maker rather than hand them your pitch to relay.
+- **The live alternative is *hiring*, not a competitor (Jordan Platten):** the SMB owner is often weighing you against bringing it **in-house** ("we're looking to hire a marketing director"). Name and dismantle that option directly (cost of salary/benefits/training vs. a team with skin in the game). `[see the agency-over-in-house pitch in swipe-file]`
+- **The decision-maker-missing stall (verbatim):** "I'd like to run it past my **partner / my husband / my wife**." On a first call this usually means you never had the real decision-maker in the room — qualify for sole authority up front. (Mike Killen) `[isolate-the-decision flip lives in swipe-file — Patrick Dang]`
+- **The hire-an-agency-and-get-burned pain, verbatim (v22 — The Futur / Chris Do):** what makes the owner gun-shy about the *next* vendor — "**it takes too long to see results… you have no idea what they're actually doing… you just get a bill every month… and if you don't like it, you start over and burn another three months.**" The do-nothing option *feels* safer because the last vendor was a black box; pre-empt it with transparency, fast proof, and a visible cadence of what-you're-doing. (RIOA-relevant — the founding-client end-market's exact fear.)
+
+---
+
+## Market: Freelance copywriters & solo service-sellers (positioning · pricing · the feelings to engineer in a service buyer)
+*(NEW v14 — Joanna Wiebe / Copyhackers, a single high-authority source; her direct audience is freelance/solo copywriters and service-sellers, and her teaching surfaces both their self-talk AND the verbatim reactions to engineer in the *client* who buys copy/services. RIOA-relevant: it's the psychology of selling a done-for-you service and of the buyer saying yes.)*
+
+### The service-seller's own self-talk (shakeable notions to flip)
+- **Underpricing self-sabotage (verbatim):** charging too little signals "copywriters don't deserve money" / "nobody here has the skills." The fix isn't a pep talk — "if you can't confidently raise your rates, either fix the skills, fix the confidence, or change to a better audience." (the three real levers under a pricing block.)
+- **Saturation fear (firm notion to flip):** "it's a red ocean, it's too late, everyone's doing this" → "**it is not a red ocean out there** — there's lots of room, and faster ways to build authority than ever." `[corroborates "there's always room for the best"]`
+- **The "marketing friend-zone" trap:** "if I sell, they'll know I'm selling and feel used" → "you're *allowed* to sell; you're allowed to assume they're ready" — content that only befriends never converts.
+- **Over-building as offer-avoidance (the founder's self-deception, named — Mike Killen):** endlessly polishing the product, the sales pages, the SOPs "**because deep down I didn't know what the specific offer was.**" Busywork on the *build* is how you hide from the un-nailed *offer*. RIOA-relevant — ship the offer, not the scaffolding.
+- **"I'll charge more once I have a bit more experience… I want to get my wings" (Mike Killen):** the belief that price is tied to *skill-experience* — the underpricing trap. Flip it: price comes from the AUTHORITY you build and the *result* you sell, not your years in the game (a beginner can charge premium; you'll never find a number everyone's happy with — "people asked for cheaper than a 99¢ book"). `[corroborates the underpricing self-sabotage above]`
+- **Close-avoidance self-talk — the comfortable move that kills the yes (verbatim, Andrew Argue):** at the moment of decision the seller reaches for the soft exit — "**I'll just send you an invoice… and then we'll go from there.**" It feels considerate but it hands the prospect an off-ramp; the courageous move is to take payment *on the call* (card now), because "send-the-invoice" deals slip and die. Name this so the seller stops sabotaging their own close.
+
+### The feelings to engineer in a service/copy BUYER (north-star reactions — what great copy produces)
+- **The dream reaction to your pitch (verbatim):** "**Gosh, I hope I can afford this person.**" When the buyer self-diagnoses the gap, this is the feeling — desire *before* the price is named. (Joanna Wiebe)
+- **"This person finally gets it":** when the playback nails their problem in their own words, the reaction is "I know" / "oh my God, this person finally gets it" — the strongest signal your copy landed. *(reinforces the B2B "what good feels like" north-star.)*
+- **"Why did nobody tell me about this earlier?"** — the reaction a genuinely useful lead magnet/resource should produce. (Joanna Wiebe)
+- **Memorable-copy goal (verbatim):** the prospect lies in bed later thinking "**what was that pillowcase company Joe mentioned today?**" — copy that keeps living in the imagination after the email is closed. (Joanna Wiebe)
+- **Happy-client expansion (the upsell tell):** after a small win (conversions 2%→4%), the client comes back unprompted — "**Can you help us write our email sequence? Can you fix our landing pages?**" Land the proof, expand the relationship. (Joanna Wiebe)
+
+### Reactions to AVOID triggering (the anti-VOC — what kills the sale)
+- **Skeptic disbelief at a too-good claim:** "**Wait, double? Really?**" — an over-good number triggers disbelief, not desire. (Tune the promise to the edge of believable — see swipe-file + the Risk-Reversal believability caveat.) (Joanna Wiebe)
+- **Self-image threat → bounce:** "**Wait, are they saying I'm getting it wrong?**" An attack/negativity hook makes the reader feel accused and leave, even as it wins views. Mirror their self-image ("I see you"), never threaten it ("you're broken"). (Joanna Wiebe)
+
+### v22 — The Futur (Chris Do): the creative/service seller & the client who hires them
+*(The Futur's audience is designers, agencies, fractional CMOs and solo creatives selling done-for-you work — squarely this market; it surfaces both the seller's self-talk AND the buyer's verbatim reactions. RIOA-relevant: the psychology of selling a premium service and of the client saying yes.)*
+
+**The service-seller's own self-talk (shakeable notions to flip):**
+- **Selling feels like an "ick" (verbatim block):** selling your own work feels "distasteful, self-centered" — the archetype in the seller's head is "**used car salesman, timeshare, sleazy, Wolf of Wall Street.**" Flip with the serve-don't-sell posture. `[see Detach-from-outcome, field-frameworks]`
+- **The fear cluster under the close:** "fear of losing out… what if this doesn't work out, what if this is a waste of time or money, **what if a client says no?**" Neediness is the smell the buyer detects — fix your finances first so you don't negotiate from lack.
+- **"Charging by the hour punishes me for being good":** the belief that time = price (the underpricing trap, same as Joanna's "I'll get my wings" and Mike Killen's). Flip to value-based pricing. `[corroborates the underpricing self-sabotage above]`
+
+**The feelings to engineer in a service/creative BUYER (north-star reactions):**
+- **The feeling-based desire under a "logo" request (verbatim):** "**I want to be proud of how we're showing up in the marketplace / I want the experience to feel premium.**" They ask for a deliverable; they *want* a feeling — write to the feeling.
+- **The "soft landing" dream-outcome:** "**I'm ready for this struggle to be over… give me a soft landing place**," and the problems named in their words — "an SEO problem, a conversion problem, a branding problem, a messaging problem — I don't want to struggle anymore."
+- **"Just tell me what to do" (anti-guru):** "**Don't be Yoda. Don't be Miyagi. I don't need your Zen — just tell me what to do.**" Buyers want directness and a clear next step, not performed wisdom. (The tell for an inauthentic expert: "they're *performing* for me rather than *communicating* with me.")
+- **Why a buyer picks the pricier option (verbatim):** "It was a combination of vibe, a similar background, **I just liked you**… I went with you even though you cost more than twice as much." Likability/fit beats price at the top of the bracket. `[corroborates Niche-down / premium-as-proof]`
+
+**Reactions to AVOID + the silent objections (anti-VOC — what kills the sale):**
+- **The burned-before "no surprises" objection (verbatim):** "We had a designer before… every time we needed a small revision, they charged us extra. I don't want that kind of surprise again — it's not about the money, I just don't want *surprises*." Price the scope so there are no surprise line items.
+- **The silent AI objection (RIOA-relevant — never spoken):** "**Can I just get a Midjourney output for $10 versus paying you $10,000?**" The buyer thinks it and ghosts — "they're not going to tell you 'I didn't understand the proposal'; the unsaid is you losing the deal." Pre-empt by selling the judgment/taste/outcome the $10 tool can't deliver. `[see the AI-augmentation currency flag, field-frameworks]`
+- **The polite brush-off that means *ghost* (verbatim):** "I have to go think about it" / "let me consider my options" — and the silent price version, "I don't want you to think I'm cheap… that's so far out of what I can afford… I think I'm wasting your time." Name the price-feeling neutrally instead of discounting yourself.
+- **The vague-title reaction (verbatim):** "**Some people might not know what that means**" / "that's real broad… everything" — what a buyer thinks hearing "fractional CMO" or "multimedia designer." Clarity beats cleverness in the one-liner.
+- **The demoralized-agency dream-pain (mirror it in recruiting/coaching copy):** "**It sucks to pitch work you really want, for budgets you can only dream of, and for four out of five to say 'no, not today, not you — someone else.'**"
+
+### v23 — The Futur (Chris Do) + Dan Mall + Matt Essam: the creative/service seller & the client who hires them
+*(The Futur was counted v22; this batch deepens the same section with fresh verbatim from the channel and its in-channel guests Dan Mall and Matt Essam. RIOA-relevant: the exact language of a service buyer hesitating, and the seller's own pricing/selling blocks.)*
+
+**The service-seller's own self-talk (shakeable notions to flip):**
+- **The commodity complaint (verbatim):** "**Chris, I can't charge more — there's too much competition; if I don't charge less, someone down the street will.**" The undercutting trap; flip with value-laddering and niche-down.
+- **Developing-market pain (verbatim):** "**Dude, no one here wants to pay for what it's worth.**" (the geography-doesn't-pay belief.)
+- **The creative's lament that opens the room (Matt Essam, verbatim):** "**I get most of my work from word of mouth and referrals… it's not predictable, a bit volatile, clients aren't always the right fit, and when I go after work I feel salesy and spammy.**" The full pain-cluster of the referral-dependent solo seller in one line.
+- **Employee-to-founder trigger (verbatim):** "**I'm just upselling clients and making my CEO richer while my salary stays the same.**" The resentment that pushes a skilled employee to go solo.
+
+**The feelings/fears in a service BUYER (north-star + the verbatim hesitation):**
+- **The buyer's silent test before hiring (verbatim):** "**Do you recognize me? Do you understand my problem, my wants, my fears and hopes — before you start selling me?**" Prove understanding *first* or the pitch is noise.
+- **The instant sell-resistance (verbatim):** "**We all have this allergic reaction when someone reaches out their hand and tries to sell to us immediately.**" Why give-before-you-ask beats a hard open.
+- **Live pricing objections (verbatim bank):** "**What do I get for that $10,000?**" / "**Why is redesigning our logo so expensive?**" / "**That sounds like a lot.**" / "**I'm hoping we can afford you.**" The exact words a service buyer uses at the number.
+- **The real buying reason (verbatim — the north-star to engineer):** "**We really want to go with you because we felt validated — you're so enthusiastic about our project.**" Enthusiasm + feeling-understood beats credentials.
+- **The #1 buying fear (Matt Essam, verbatim):** "**I'm going to give time, money and energy and not get back what I want and need from this thing.**" And why they ghost "jump on a call" offers — "**it's intrusive, annoying — I'm worried about getting hard sold and wasting my time.**" (the risk outweighs the reward.)
+- **Testimonial gold / the dream reaction (verbatim):** "**I've run an ad agency for 25 years and this is the first time in my career I've ever felt like the expert.**"
+- **The category-founding small-business client (verbatim — the buyer behind the offer):** people with "**zero money, zero budget, and zero clue**" who "**don't have the budget to spend three grand a month telling their stories**" — name the constraint, then build the low-risk entry that fits it.
+
+### v24 — Flux Academy (Ran Segall) + The Futur (Chris Do): the service buyer at the price + the tire-kicker tell
+*(The Futur counted v22/v23, Flux Academy genuinely new this cycle; both deepen the same service-seller/client vein. RIOA-relevant: the exact words a web/design client says *at the number*, and the tells that separate a real buyer from a tire-kicker.)*
+
+**The service BUYER's price/budget objections (verbatim bank):**
+- **The "it's expensive" objection (verbatim — The Futur):** "**It's expensive, man. It's like 10× what we usually pay. I don't know if I can convince the CEO to pay that. I like you guys and you do amazing work.**" The full price stall — likes you, rates the work, still blocked on the number and the internal sell.
+- **The budget-mismatch reveal (verbatim — The Futur):** "**That's actually way higher than I could afford. I wasn't thinking beyond four figures… no more than like 2,500.**" The exact words when the prospect's budget is an order of magnitude under the quote — the cue to matchmaker-disqualify, not discount.
+- **The "work up to it" stall (verbatim — The Futur):** "**Is there no way to work up to this? My vision was to bring somebody on and grow into it.**" A phased-commitment ask — a foot-in-the-door opening, not a no.
+
+**The tire-kicker tell vs the real buyer (Flux Academy / Ran Segall):**
+- **A vague deadline = not serious:** asked when they need it done, a real buyer names a *date*; a tire-kicker says "**ASAP**" or "**we're just talking to a few people at the moment**" — disqualify-or-deprioritize signals, not buying signals.
+- **Being direct about money builds trust:** clients read straight talk about price as *more* trustworthy — "beating around the bush signals you have something to hide or don't know what you're doing."
+
+**Universal buyer-psychology firm notion (validate, don't fight):**
+- **People only care about their own problems (verbatim — Seth Godin via Flux):** "**My favorite person is me, and the only email I love is e-ME-ail.**" The reader scans every message for "what's in it for me" — lead with their problem, never yours.
+- **Outreach fatigue (verbatim — The Futur):** "**It's all about me, me, me… it feels like a first date and you're going straight for the kiss.**" Why the genuine → curious → add-value → THEN-ask order beats a hard open.
+
+### v25 — Alex Berman + Flux Academy (Ran Segall): the magic-bullet wish, the anti-sell buyer & the discount instinct
+*(Both re-confirmation — verbatim only, no count moves. Spans three existing markets; consolidated here for auditability.)*
+
+**The course/info buyer's secret wish → maps to High-ticket coaching / course buyers (verbatim — Alex Berman):**
+- **The magic-bullet fantasy:** buyers crave "**that magic bullet… steal my script… plug-and-play sort of deal.**" The desire to skip the work entirely. Name it out loud, then earn trust by puncturing it — selling them the fantasy straight loses the credible buyer.
+
+**The Money-Twitter / "get rich do nothing" segment → maps to Aspiring solopreneurs (verbatim — Alex Berman):**
+- **The escape-hatch dream:** "**I want to cash out for like five mil and just never do anything ever again… get rich, do nothing.**" The freedom-by-exit fantasy in its rawest form.
+- **A real audience split worth targeting differently:** Money-Twitter = "**18-to-30-year-old dudes who hate normal society, gonna ascend and be better than everyone**"; vs the calmer "**people breaking out of the corporate world, 25-to-39**." Same offer, two different emotional registers — pick one voice per piece.
+
+**The anti-sell BUYER (designers, founders, sophisticated services) → deepens Freelance / service-buyer (verbatim — Flux Academy / Ran Segall):**
+- **"I don't like being sold to":** "**buy me, buy me — I don't like that. I want to feel like I'm choosing what's right for me and making my own decisions.**" Sell by *educating*; frame the engagement as a collaboration, not a service being pushed. The RIOA-relevant tell for a smart, skeptical, high-ticket buyer.
+
+**Universal buyer-psychology firm notions (validate, don't fight):**
+- **Everyone secretly wants the discount (verbatim — Flux Academy):** "**people love to get discounts… they feel 'yeah, I won, I got a great deal.'**" Even your buyer wants to feel they won one — engineer the deal so they can, without dropping below your floor.
+- **The real block is trust/belief, not the number (Alex Berman):** "**if they trusted you to deliver, they'd pay any price; if they don't love the offer, you just haven't convinced them they'll get the result.**" Price is the symptom; belief is the disease. `[corroborates Fladlien's "price is a smokescreen, the real objection is belief" — see swipe-file objection-flips]`
+
+### v26 — Alex Berman: the cold-email despair vein & two seller firm-notions *(re-confirmation — verbatim only; Berman counted v23/v25)*
+*(Single already-counted creator — no count moves. Spans existing markets; consolidated here for auditability.)*
+
+**Cold-email despair, verbatim → maps to Aspiring solopreneurs / agency owners running outbound (Alex Berman):** "**It's soul-crushing to see all the effort you put into cold email just to hear crickets… everyone online makes it seem like it just prints money.**" The gap between the guru promise and the silent inbox is the exact pain to open on. `[hook fuel — see swipe-file]`
+
+**Firm notion — "I'll do anything / I'll work for free" is a WEAK pitch (Alex Berman):** it dumps the work back on the buyer ("*ok… what are your skills?*"). Buyers don't want options, they want one specific thing to say yes or no to — vague generosity reads as low value. `[universal — applies to outreach + offers]`
+
+**Firm notion — clean copy is trust; a typo is a delete-trigger (Alex Berman, foreign-seller-to-American note):** misspellings are "*the #1 way an email gets deleted*"; sloppy mechanics read as "not serious" before the buyer even weighs the offer (and US buyers expect a little small talk + a direct ask + obvious value). `[pairs with the 3-question QA pass]`
+
+**The going-direct-reframes-you-as-a-peer note (Alex Berman, job-seeker context but reusable):** cold-emailing the decision-maker makes you "*a peer, not one of a billion résumés in a pile*" — and can land a role that doesn't even exist yet. The principle generalizes: going direct reframes the sender from supplicant to peer.
+
+### v27 — cold-email reality + seller head-trash + selling to the wealthy *(re-confirmation + thin new guest — verbatim only)*
+
+**Vanity-metric reality (Alex Berman) → B2B / cold-traffic sellers:** "*A 60% open rate with zero replies is a dead end; a 35% open with a 10% reply fills pipeline.*" The number that feels good (opens) isn't the number that pays (replies / booked). `[the metric that actually matters]`
+
+**Seller anti-pattern — "selling like a street vendor" (Ankit, via Alex Berman):** listing every service as a menu of bullet points for the buyer to grab, instead of one specific offer to one buyer. Vague generosity reads as low value (pairs with the v26 "I'll do anything" note). `[universal — outreach + offers]`
+
+**Seller head-trash to kill (Alex Berman) → Aspiring solopreneurs / agency owners:** "*I don't have time*" (usually fear in disguise) and "*I'm not ready to launch*" → "*who are you to tell yourself that? Your customers decide. Reach out to 100 people and let them tell you.*" And kill one-itis by keeping 9–10 live deals so no single "no" lands hard. `[the confidence blocks behind not-shipping]`
+
+**Firm notion — a company that doesn't sell is a hobby (Alex Berman):** "*If your company doesn't make sales, it's not really a company — it's a hobby.*" `[the reframe that gives permission to sell]`
+
+**Buyer stall, decoded (Alex Berman):** "*'I need to think about it' just means you didn't get your value across*" — answer with more case studies + light FOMO + a price expiration, not pressure. `[reads the real objection under the polite stall]`
+
+**Firm notion — selling to wealthy clients (Jeffrey Shaw, via Brand Master Academy):** high-net-worth buyers are the most intuitive, perceptive clientele you'll ever serve — "*if they smell that you want to serve them to gain their money, you'll never break through.*" Charge more to earn their respect; neediness repels them. `[a high-ticket / luxury / wealthy-buyer vein — corroborates the Detach posture]`
+
+### v28 — the default objection set + buyer-decision fear + opportunity-cost framing *(re-confirmation — verbatim only; The Futur counted v22/v23, Berman counted v23)*
+
+**The 3 default service-buyer objections (The Futur) → SMB / service buyers:** "*Too expensive, not enough experience, no guarantees*" — the three objections every service buyer reaches for by reflex. Name them yourself before they can. `[maps to the IVOC objections bucket — the exact set to pre-empt on a founding-client call]`
+
+**Buyers freeze because they fear looking stupid to the expert (The Futur):** "*It's difficult to think and it's difficult to make a decision*" — in front of an expert a prospect is scared of sounding dumb, so they stall. Create a safe space and ask short leading questions instead of the blunt "*so what's the problem?*" `[the hidden emotion under a quiet prospect — buyer psychology]`
+
+**Opportunity-cost framing (The Futur):** "*Everything you agree to do means you're agreeing NOT to do something else.*" Sell the time and attention the buyer gets back, not just the deliverable. `[time as the real currency]`
+
+**Anti-value = telling them what they already know (Alex Berman):** delivering "*anti-value*" — repeating a fact the prospect already has (their own YouTube earnings, their own traffic) — is "*infuriating*" and an instant delete. Real value shows them something NEW about their own problem. `[the value-add that backfires]`
+
+**Firm notion — "marketing to everyone is marketing to no one" (Alex Berman):** even agencies have a blind spot for their own marketing — "*niche down to where you already win.*" `[the cobbler's-children tell — reinforces niche-down]`
+
+### v29 — cold-email buyer signals + the open-rate-is-vanity truth *(re-confirmation — verbatim only; Berman counted v23)*
+
+**"What's the price?" = the buyer is READY, not stalling (Alex Berman):** a prospect who replies "*what's the price?*" assumes you already have a custom plan for them — never deflect with "*pricing depends on your needs.*" Give a number and restate the value: "*these 3 changes will be $1,500 — happy to start now or hop on a quick call.*" `[a buy-signal most sellers misread as an objection — B2B / service buyers]`
+
+**The warm-buyer breakup after a pricing dodge (Alex Berman):** a real prospect after being stonewalled on price — "*I'm sorry we're wasting each other's time. I thought you already told me what needed to be done… I'll send the video to someone who can help me.*" Vagueness kills the buyers who were closest to yes. `[the cost of hedging on price — service buyers]`
+
+**Pattern-breaking humor earns replies from people who never reply (enterprise VOC, via Berman):** "*I've not replied to an unsolicited approach in 19 years, but I had to reply to yours*"; "*My colleague forwarded me your spam email and we'd like to meet to discuss opportunities.*" `[proof the disarming / funny open works on the hardest buyers — pairs with the Buckin drunk-email hook in swipe-file]`
+
+**Drucker's stalling-prospect reveals — ask for the next step and they name the real objection (via Berman):** "*What are the next steps? Anything else I can present to help you or your team decide?*" surfaces it — trust: "*I'd like to talk to some past customers to see if you're BS-ing me*"; need: "*I just don't see a need for this.*" `[the two-question move that decodes a polite stall into a nameable objection]`
+
+**North-star / firm notion — opens are vanity; replies and sales are the metric (Neville Medhora, via Berman):** "*I don't care if people open it — I want 2 people to open it and both to buy.*" A pretty, formatted email got clicks and zero sales; a plain Halbert-style personal letter pulled 120 orders in the first 3–4 hours vs. his usual 10/day. `[the definitive statement — reinforces v25 "stop worshipping the open rate" + v27 vanity-metric]`
+
+### v30 — enterprise-buyer psychology + seller-posture firm notions *(re-confirmation — verbatim only; Berman counted v23)*
+
+**The buyer judges the MESSAGE, not you (Alex Berman) → B2B / cold-email buyers:** "*They're not judging you as a person, they're judging you based on your email message — which is garbage.*" A typo or a sloppy line becomes the entire verdict on you before a word of the offer lands. `[deepens the v26 "a typo is a delete-trigger — clean copy is trust"]`
+
+**Big-company buyer truth — it's not their money (Alex Berman) → enterprise / large-deal buyers:** "*There's no difference to them between spending 50,000 and 500,000*" — because the budget isn't their own money, the rep's likeability and certainty often outweigh the price line. Sell the person and the confidence, not the discount. `[a new enterprise-buyer vein — RIOA's higher-ticket L1 buyer]`
+
+**Enterprise radio silence is normal, not a "no" (Alex Berman) → enterprise buyers:** long gaps between replies are the default at this deal size; panic-discounting into the silence just trains them to stay quiet so the price keeps falling. Hold your number and keep following up calmly. `[reads the silence most sellers misread as rejection]`
+
+**Firm notion — "you have to not need them to win them" (Alex Berman):** the calm that closes big clients comes from already having smaller clients paying the bills — desperation leaks through the copy and the call, and it repels. `[the Detach posture — corroborates Jeffrey Shaw's "neediness repels the wealthy buyer," v27]`
+
+**Firm notion — you attract clients by how you present yourself (Alex Berman):** "*Present as a little kid, you get little kids.*" Raising the price changes *who* shows up — the number is a filter on the buyer, not just a fee. `[positioning — corroborates charge-more-to-earn-respect, v27]`
+
+**Firm notion — "nobody buys anything, they invest" (Alex Berman):** reframe every price as an investment with a return, not a cost to weigh — the buyer who thinks in ROI stops flinching at the number. `[the reframe under a price objection — pairs with the ROI-math close in swipe-file]`
+
+### v31 — agency-owner pain + the sell-up-market truth *(re-confirmation — verbatim only; Berman counted v23)*
+
+**Agency work is a "downward tornado" (Alex Berman) → agency owners / done-for-you service-sellers:** "*Every client you sign, you start over from zero; success with the last one is no guarantee with the next*" — unlike software, which works once and then works for all. The treadmill pain that makes an agency owner crave a productized, repeatable model. `[RIOA's ICP-adjacent buyer — the exact ache behind "I want a business that serves me"]`
+
+**"Higher-quality meetings than anything you're getting from PPC" (Alex Berman) → lead-fatigued buyers (real-estate agents et al.):** the pain-point line that lifted response for agents drowning in cheap, low-intent Google leads — sell the *quality* gap, not just "more leads." `[name the quality problem the buyer already feels; don't out-promise on volume]`
+
+**Sell to the already-aware — be the savior, not the teacher (Alex Berman):** the three buyer states (uneducated / tried-and-failing / already-succeeding) each need a different email; prefer the buyer whose "*ads are on fire and they know they need help,*" so you arrive as the fix, not the lecture — "*sell to people who already know they need it.*" `[awareness-level targeting — Schwartz's stages applied to outreach; sell the most-aware first]`
+
+**Why the bigger buyer is the easier buyer (Alex Berman) → the sell-up-market case:** "*When someone spends their last $200 on you, they manage the crap out of you*"; a bigger client "*hands you $2k out of a giant stack of cash and doesn't even care.*" Scale the buyer up and the client-management burden goes DOWN — the copy-relevant slice of the "golden geese" logic. `[buyer-psychology behind pricing up — corroborates the v30 "it's not their money" enterprise vein]`
+
+### v32 — the "me-centric" opt-in killer + the objection-in-a-costume + who-signs-at-an-SMB *(re-confirmation + thin new guests — verbatim only; Berman counted v23, Halpern guest-thin)*
+
+**"Me-centric" copy is the #1 opt-in killer (Derek Halpern, via Lewis Howes) → creators / info-product & SaaS signup-page buyers:** the diagnosis for a form that won't convert — the copy "*talks about you and why you're so great but doesn't tell people what they GET.*" The reader scans for the payoff-to-them and finds a résumé. `[the you-vs-them test at the moment of opt-in; maps to the FAB-DB / benefit-first canon and pairs with Halpern's "put the testimonial below the button"]`
+
+**"Your price is too high" is a costume (Alex Berman) → B2B / service buyers:** the private objection is almost never the math — it means "*I wasn't convinced on the call.*" Read every price objection as "*I'm not convinced yet, wearing a costume,*" and go back to conviction, not the number. `[decode: price = unconvinced; corroborates the v25 "the real block is belief, not the number"]`
+
+**Who actually signs at an SMB — the founder, from their inbox (Alex Berman) → SMB / local-business owners buying DFY services [the RIOA vein]:** "*the founder is the decision maker… founders live in their email… they have budget if you can give them ROI.*" Under-100-employee firms = the founder puts in the credit card regardless of what any gatekeeper says. `[who to write TO and what unlocks the yes — ROI, not features; corroborates the "golden geese" targeting]`
+
+### v33 — founder/rep limiting beliefs + buyer-conditioning + rep-burnout (Patrick Dang re-confirmation + Brandon Bornancin's channel: Lee Salz, Alice Heiman, Michael Hopkins, Ryan Staley) *(spans existing markets — no new section)*
+
+**Founder / creator limiting beliefs, verbatim (Patrick Dang) → aspiring solopreneurs / RIOA's ICP-adjacent buyer [Firm-vs-shakeable notions]:** "*I'm not technical / I don't know how to code,*" "*everyone's already using AI, it's too late,*" "*I don't have any client testimonials — who's going to pay me?*", "*there's too much competition, it's already saturated.*" `[the exact head-trash to disarm before the offer lands — the too-late / no-proof / already-saturated trio is the RIOA buyer's default script]`
+
+**Rep / outreach misconceptions (Patrick Dang) → aspiring solopreneurs & agency owners running outbound [Objections]:** "*nobody's going to respond because I don't have an audience,*" "*cold outreach doesn't work anymore,*" "*nobody will respond if I don't have anything built.*" `[the reasons-not-to-start that precede any cold-rail buyer's yes]`
+
+**The buyer's conditioned belief about salespeople (Lee Salz, via Bornancin) → B2B / cold-traffic buyers [Firm notions]:** "*The only time to meet with a salesperson is when you're looking to buy something*" — which is exactly why the first meeting has to *deliver* value, not extract it. Paired with the universal-but-unpracticed truth: "*people buy based on emotion and justify their decisions with logic — every salesperson's heard it and no one does it.*" `[the wall every cold meeting-ask hits — and the emotion-then-logic gap most sellers only pay lip service to]`
+
+**Cold-call brush-offs to expect (Bornancin / Michael Hopkins) → B2B objection bank [Objections]:** "*I'm not interested,*" "*can you just send me this,*" "*we already use something.*" `[the reflexive three — pre-empt them in the opener rather than answer them later]`
+
+**Rep-burnout / "a slave to revenue" (Bornancin / Ryan Staley) → sales reps & agency owners [Pain / dream-outcome]:** "*congrats — new comp plan, now sell 150-200% of last year to make the same money,*" and being buried in the number "*almost destroyed my relationships with my wife and kids.*" `[the ache behind wanting a repeatable system that isn't a treadmill — RIOA's productized-model promise speaks straight to it]`
+
+**"The value is the value" — the secret discount-wish (Alice Heiman, via Bornancin) → any price-sensitive buyer [Firm-vs-shakeable notions]:** buyers angle for the month-end discount because winning it feels like "*yeah, I won,*" but caving trains them to expect the same or lower at renewal — corroborates the v25 "everyone secretly wants the discount" + belief-not-the-number vein. `[hold the price; the discount-wish is real but self-defeating to feed]`
+
+### v34 — the expert-buyer brush-off + the overwhelmed buyer who wants a guide + founder-ghostwriting desire (Brandon Bornancin's channel: Cynthia Barnes, Marylou Tyler, Brian G Burns, Shari Levitin, Chris Walker + Patrick Dang) *(re-confirmation — verbatim only; Bornancin counted v33, Dang counted v1/v4; guests fold under his channel — spans existing markets, no new section)*
+
+**The expert-buyer brush-off (Bornancin / Cynthia Barnes) → credentialed / professional buyers [the RIOA dental & medical vein] [Firm notion / Objection]:** "*Do you really presume to stand there with your six weeks of training and tell me you know more about my patient population than my 12 years of post-high-school education?*" — the degreed buyer (doctor, dentist, specialist) dismissing a young rep on authority. The only way through is to make it 100% about *their* outcome, never your credentials. `[the exact wall RIOA hits selling into dental practices — answer with the patient's result, not your résumé]`
+
+**The overwhelmed buyer who quietly wants to be told what to do (Bornancin / Marylou Tyler) → any option-flooded buyer [Desire]:** "*I just wished someone would call me and tell me the differences between all these things — it's exhausting.*" Drowning in near-identical choices, they secretly want a guide to just make the call. `[sell clarity and a decision, not more options — be the one who ends the exhaustion]`
+
+**The founder desire behind ghostwriting / done-for-you content (Patrick Dang) → founders & operators buying content services [the RIOA content-adjacency vein] [Desire]:** they want the leads and the personal brand, but they *don't* want to write it and they don't want to show their face. `[the precise want behind "get me the audience without me having to become a creator"]`
+
+**What actually keeps a VP of Sales up at night (Bornancin) → B2B revenue leaders [Characteristics / pain]:** "*I'm 70% to quota, 90 days left, my AEs keep complaining the quota's impossible, and my SDRs keep bitching the lists aren't qualified.*" `[the revenue-leader's 2am monologue — write to the number and the finger-pointing beneath it]`
+
+**What buyers weigh — and what they ignore (Bornancin) → B2B / service buyers [Firm notion]:** they don't care about your awards, your mission, or who funded you — they care about your research, your strategy, your execution plan, the ROI, and the revenue results by the end of the investment. `[don't pitch your bio; pitch their outcome — corroborates "nobody cares about you, only what you can do for them"]`
+
+**The CEO deflection (Bornancin / Brian G Burns) → founder/exec buyers [Objection]:** "*We don't have a sales problem.*" The reflexive denial that gates every sales-improvement pitch — get past it by making them name one specific missed number, not by arguing. `[the status-quo denial — surface the gap in their own words]`
+
+**The blame-language tell (Bornancin / Shari Levitin) → any stuck buyer [Characteristics — diagnostic]:** the pronoun is always external — "*it's the market, the SDRs gave me terrible leads, it's the economy.*" External-locus language marks the buyer who won't move until you shift them to what's inside their control. `[diagnose ownership by the pronouns before you sell the fix]`
+
+**The inbound-dream phrasing that content creates (Bornancin / Chris Walker) → the leads a working content engine produces [Desire / dream inbound]:** they arrive already saying "*Hey, we suck at demand gen, I could really use your help.*" `[the north-star inbound — pre-sold buyers who name their own pain; what RIOA's audience-first engine is built to manufacture]`
+
+### v35 — the ready-buyer who hates the forced process + the bad-data despair + two seller firm-notions (Brandon Bornancin's channel: Josh Braun) *(re-confirmation — verbatim only; Bornancin counted v33/v34; Josh Braun already counted, folds under his channel — spans existing markets, no new section)*
+
+**The ready-buyer who hates the forced process (Bornancin) → B2B / high-ticket buyers who've already decided [Firm notion / Objection]:** "*If you force me to do discovery, then a presentation, then get pricing — I will hate you forever. I'm telling you I'm a buyer, I'm ready to buy.*" Once they signal ready, dragging them through your stages destroys the sale. `[when the buyer is pre-sold, skip the theater and let them buy — corroborates the v34 "just tell me what to do" overwhelmed-buyer]`
+
+**The bad-data despair (Bornancin) → sales reps / SDRs buying data & outreach tools [Characteristics / pain]:** "*half of them were wrong emails, wrong phone numbers… after that happens over and over I wanted to blow my brains out.*" The gut-level frustration behind every list-quality buy. `[twist this knife when selling accuracy/deliverability — the pain is emotional, not spreadsheet-rational]`
+
+**The anti-lazy-follow-up firm notion (Bornancin) → any inbox the buyer scans [Firm notion — what they're numb to]:** "*Everyone can say 'hey just checking in,' 'hey just following up' — 98% of salespeople send that stupid stuff. Don't be one of them.*" The reflex phrases the buyer's brain has learned to filter to spam. `[never write a touch that could be any rep's — the "checking in" delete-trigger, corroborates the anti-value-repeat trap v28]`
+
+**The founder-sacrifice line that out-pulls every product post (Bornancin) → the personal-brand audience [Desire / what actually connects]:** "*80 hours a week, paying myself $0, living on my wife's salary for 3 years.*" The raw origin-cost post beat every polished product post on reach. `[on a personal brand, the human sacrifice out-converts the feature list — what RIOA's founder content should lean into]`
+
+**The aspiration one-liner (Bornancin) → aspiring solopreneurs / outbound sellers [Desire / dream outcome]:** "*You're one list away from everything you want in life — the family, the marriage, the income, the revenue.*" Collapses the whole dream stack into one sentence tied to the single next action. `[the dream-in-one-line — corroborates the "one X away from everything" aspiration frame]`
+
+### v36 — the post-discount buyer conclusion cascade + the "your questions sound like everyone else's" tune-out (Brandon Bornancin, price-objection batch, + his via-channel guest Tim Wackel) *(re-confirmation — verbatim only; Bornancin counted v33, re-confirmed v34/v35; Wackel folds under his channel — no count moves. No new market section — spans the universal buyer-psychology and B2B-buyer veins.)*
+
+**The post-discount buyer conclusion cascade (Bornancin) → any buyer you cave to on price [Firm notion / Objection — universal buyer psychology]:** the moment you drop the number, the buyer silently concludes three things — "*(1) it was overpriced the whole time, (2) I can push for more, (3) if I wait, I'll get it even cheaper.*" The discount you gave to close the deal is the exact thing that reopens it. (Complements the v25 "everyone secretly wants the discount — 'I won, I got a great deal'" firm notion: they *want* it, but giving it *costs you the frame*.)
+
+**The "your questions sound like everyone else's" tune-out (Bornancin / Tim Wackel) → B2B / professional buyers [Characteristics — what makes them stop listening]:** "*86% of B2B buyers say the questions salespeople ask are mind-numbing — the same stupid questions everyone in the industry asks.*" The proof-stat behind every "your outreach reads like a template" objection; the fastest way to lose a qualified buyer is to sound interchangeable. (Route the pitch through a question no competitor is asking.)
+
+### v37 — the real deal-stall truth + the "why-now" internal veto + the budget-objection decode + cold-traffic scam-skepticism (Brian G Burns [deepens — appeared v34] + Jeremy Haynes [new-but-secondary]) *(swipe + VOC only; spans the B2B-buyer and cold-traffic veins — no new market section; framework layer FROZEN at v35)*
+
+**The real reason deals stall — it isn't you (Brian G Burns) → B2B / committee buyers [why deals stall]:** "*They like you, they want you, they can afford you — but they can't get it done internally.*" The block is rarely your pitch; it's the buyer's own internal machine. `[stop re-selling the value — arm them to sell it inside; corroborates the "why-now" priority-list stall]`
+
+**The "why-now" internal veto, verbatim (Brian G Burns) → the economic buyer's default [Firm notion / Objection]:** "*I don't know what it is, I think we've lived without it, we can live without it another month — why are we doing it now?*" The status-quo monologue running under every stalled deal. `[the inertia voice — beat it with the cost of NOT acting, not more features; RIOA's high-ticket buyer thinks exactly this]`
+
+**The budget-objection decode — "it's never money" (Brian G Burns) → B2B buyers [objection decode]:** "*You think everyone selling to Apple isn't getting the budget objection? Only that $200 billion in the bank.*" "Too expensive" almost never means money — it means no urgency or no internal case. `[don't drop price on a budget objection — surface the real block; corroborates the price-resistance-is-a-ritual vein, v24]`
+
+**The cold-traffic scam-skepticism, verbatim (Jeremy Haynes) → cold-traffic / webinar / sales-page buyers [Characteristics]:** "*really high skepticism… that jaded perception of 'I'm gonna get scammed if I go into this thing.'*" `[name the skepticism out loud before the pitch — the cold buyer walks in already braced to be conned]`
+
+### v38 — the founder exposed on his own numbers (Brandon Bornancin, 100% Bornancin batch) *(re-confirmation — verbatim only; Bornancin counted v33, re-confirmed v34/v35/v36/v37; spans the founders/operators vein — no new market section; framework layer FROZEN at v35)*
+
+**The founder grilled on metrics he can't recite (Bornancin) → founders & operators [Characteristics / the shame behind "I don't know my numbers"]:** "*They started asking me — what's your AR, your MRR, your LTV, your CAC…? I felt like Mike Tyson in a boxing ring getting his ass kicked and knocked out.*" The visceral exposure of a founder who's never had to know his own numbers — the emotional texture behind every "I probably should be tracking that." `[the fear to disarm when selling analytics / ops / advisory to an operator — lead with relief, not another metrics lecture]`
+
+### v39 — why your message gets ignored: the buyer drowning in outreach (Brandon Bornancin, 100% Bornancin batch + Michael Hopkins via-channel) *(re-confirmation — verbatim only; Bornancin counted v33, re-confirmed v34/v35/v36/v37/v38; heavily a re-harvest — the VP-of-sales 2am panic and the "nobody cares who funded you" list this batch re-surfaced were ALREADY banked v34; spans the B2B-buyer vein — no new market section; framework layer FROZEN at v35)*
+
+**Why your message gets ignored — the buyer is drowning, not snubbing you (Bornancin) → B2B / cold-outreach recipients [Characteristics — the reality to write around]:** "*They're getting thousands of emails, thousands of calls, 5,000 LinkedIn requests — inbox swamped, family issues at home, a colleague's fire to put out. They're getting hit from all angles.*" The silence is rarely about you; it's a buyer buried alive. Copy that earns the open is relevant enough to cut the noise, not louder. `[the empathy texture beneath every ignored cold touch — pairs with the "just checking in" delete-filter (v38, line 599) as the WHY beneath the reflex]`
+
+### v41 — annual-commitment stalls + the pricing-runaround frustration + the awe-reaction great proof earns + founder self-deception (Brandon Bornancin, 7th straight Bornancin batch, + genuinely-new voices Mor Assouline & Jordan Belfort) *(Bornancin re-confirmation — counted v33, re-confirmed v34–v39; Assouline [pricing-runaround] reaches the corpus via Bornancin's channel; Belfort's awe-reaction VOC is new — his money-mindset self-talk was banked v20; spans the B2B-buyer and founders/operators veins — no new market section; framework layer FROZEN at v35)*
+
+**The annual-commitment stalls, verbatim (Bornancin) → B2B SaaS / high-ticket buyers [Shakeable notions / the commitment objection]:** "*We need an opt-out. We only do month-to-month. We can't commit to an annual contract.*" The buyer reaching for the exit before they've felt the value — the term-length fear that's really a "what if this doesn't work" fear in disguise. `[the objection to block, not battle; pairs with the annual-contract reframe now in the swipe file — sell the commitment as alignment with their result, not a cage. RIOA-relevant for PIF / annual-commitment L1]`
+
+**The pricing-runaround frustration (Mor Assouline) → B2B / DFY-service buyers [Characteristics — the buying experience they're sick of]:** "*I ask for pricing and it's five demos to get the pricing.*" The buyer wants "*a one-stop shop, as fast as possible*" — every hoop between them and the number is read as evasion, and evasion reads as expensive. `[the pain that makes transparent pricing a wedge; write "here's the number, no runaround" and you answer a frustration they didn't know they could name]`
+
+**The awe-reaction great proof earns (Jordan Belfort) → the north-star reaction to engineer [the feeling great proof produces]:** "*How the hell did you do all of that? How does that happen?*" The involuntary disbelief a big, specific result pulls out of a prospect — when your proof makes them say this, the sale is half-closed. `[a north-star reaction, not an objection — the tell that your proof-stack is landing; distinct from the "how do I beat my competition" bedside worry (Killen). Engineer copy that earns the "how the hell," not the shrug]`
+
+**Founder self-deception right before the fall (Bornancin) → founders & operators [Characteristics — the inner narrative to disarm]:** "*I'm just damn good at this — I was set, the best entrepreneur in the world.*" The hubris that precedes every crash; the operator who mistakes "things are working right now" for "I've got this figured out." `[the private overconfidence beneath a founder's swagger — distinct from the service-seller's over-building self-deception (line 393); deepens the founders/operators vein, pairs with v38's "I don't know my numbers" shame]`
+
+### v42 — how the busy exec actually consumes + the insight-pitch eye-roll + why ROI math bounces off + the founder-selling trap (Brandon Bornancin's channel mined deep: Kyle Coleman, Mike Adams, Philip Pallifrone, Keith Rosen, Mario Martinez Jr, Ulric Ferreira — all via-channel) *(Bornancin re-confirmation — counted v33, re-confirmed v34–v39/v41 → the 8th straight Bornancin batch, but the richest VOC yield of the eight; his guests fold under his one channel — no independent counts; spans the B2B-buyer, founders/operators and sales-professional veins — no new market section; framework layer FROZEN at v35)*
+
+**How the busy exec buyer actually consumes (Bornancin) → B2B / enterprise buyers [Characteristics — the reality your copy lands in]:** "*I'm in 18 meetings a day, 365... shoot me the Loom. Five-minute Loom, three-minute Loom, two-minute Loom. I'll listen to it at two to 3x speed. I'll pick it up in two seconds.*" He isn't refusing you, he's triaging — and he will consume anything that survives 2–3x speed. `[the physics of your reader: not "does he like it" but "does it work at triple speed"; write so the point survives compression, and offer the async format he's already asking for. Deepens the drowning-buyer line banked v39]`
+
+**The buyer's internal reply to every insight pitch (Mike Adams, via Bornancin) → B2B buyers [Firm notions — the wall your "you're doing it wrong" hook hits]:** "*A thousand people a day tell me I'm doing it all wrong, and I think I'm going okay.*" Every challenger-style opener arrives as the thousand-and-first. `[why the insight hook is saturated at the buyer's end, not just the market's; the escape is the discovery story (now in the swipe file) — earn the insight instead of asserting it]`
+
+**Why ROI math bounces off an executive (Bornancin + Kyle Coleman, two voices) → B2B / C-suite buyers [Firm notions — the proof they don't trust]:** "*A lot of ROI numbers feel like they're made up and bullshit anyways... it's more about the pain point that I'm experiencing right then and there.*" And what the C-level actually optimizes for, in a CMO's own words: "*At a C-level, we care about executive-level company-wide metrics. Yeah, I care about MQLs... but I care the most about operating efficiently — and that's what customer acquisition cost is all about.*" `[the ROI calculator is a seller's artifact, not a buyer's; lead with the pain they're in today, then land on the metric they're actually measured on. RIOA: stop opening with projected returns, open with the wound]`
+
+**What bad trigger-event outreach sounds like to the person receiving it (Bornancin) → founders / funded operators [Characteristics — the noise you're being sorted into]:** "*Hey, saw you raise a bunch of money. Here's my company, want to buy it?*" heard as: "*Congrats on your round. I want all your money.*" `[the funding-trigger angle is so worked it now reads as a shakedown; the trigger isn't the message — if the only thing you know is that they have cash, you've said nothing. Direct warning for RIOA's own trigger-based outreach]`
+
+**The founder-selling trap, in the buyer's own words (Bornancin) → founders & operators [Desires / the pain to name — RIOA's exact ICP]:** "*Busy founders who are stuck in, or plagued by, founder selling... they've always struggled with: how do I duplicate or clone myself?*" `[this IS RIOA's buyer stated in his own language — the AAA founder who is the entire sales function and can't get out; "clone myself" is the phrase to write to, and it's a want for freedom, not for leads]`
+
+**The dream outcome stated as relief, not revenue (Ulric Ferreira, via Bornancin) → agency owners / service providers [Desires — how the win actually feels]:** "*I don't spend a ton of time on prospecting anymore... I'm actually able to serve clients now, and serve them at the level that I'm comfortable getting paid to do.*" And the before-state it escaped: "*I was working referrals, I was stuck at anywhere under five grand to two grand a month, it was really fluctuating and I was really stuck in the business.*" `[the buyer doesn't dream in revenue, he dreams in relief — permission to do the work he's proud of; the shame in the before-state is "getting paid for work I'm not comfortable with," not the number]`
+
+**Financial freedom, stated concretely enough to film (Philip Pallifrone, via Bornancin) → aspiring solopreneurs / sales professionals [Desires — the dream in their own units]:** "*My true vision of financial freedom for me and my family was to be able to walk into Wegmans... buy a steak, buy whatever, and not have to look at the price. Not have to worry about spending $400 to feed my family.*" `[the gold standard for a dream-outcome verbatim — no abstraction, one scene, a price tag he no longer reads; swipe the SPECIFICITY, not the steak: find your buyer's version of the un-checked price tag]`
+
+**Why they don't believe your capability claims (Bornancin) → B2B buyers [Firm notions — the vendor-lying prior]:** "*They'll tell you whatever you want to hear — oh yeah, we've got everyone, we've got these titles, these directors, these VPs, these CEOs. And in reality, they don't have anyone.*" `[the buyer arrives assuming your claim is inflated, because the last five were; this is why the self-executing guarantee (swipe, v42) outperforms a louder claim — proof they don't have to trust]`
+
+**What the coaching/consulting buyer is actually stuck on (Keith Rosen, via Bornancin) → sales professionals / SMB operators [Shakeable notions — the help they'd actually pay for]:** "*My manager is just bloody annoying. I know my goals — they don't need to keep reminding me of my goals. What I need help on is the process, the who, the how, the why.*" `[nobody is stuck on WHAT to achieve; they're stuck on HOW; goal-setting copy sells to a want that's already satisfied. Sell the process, and know that repeating their goal back at them reads as nagging, not motivation]`
+
+**The internal-selling frustration nobody writes to (Mario Martinez Jr, via Bornancin) → enterprise sellers / champions [Characteristics — the fight happening after your call]:** "*Why is it so hard to close a multi-million dollar deal? Like, you guys should be thanking me.*" Half a seller's job is selling internally — 70% at big companies. `[your champion is fighting a second sale you never see; arm him for the room you're not invited to — this is the buyer-side pain under the champion-arming probe banked v39]`
+
+### v43 — the buyer-vs-the-Buy-button self-serve aversion + the AI-search-shift anxiety hitting local service businesses (genuinely-new voices via the **Sales Hacker GTMnow** channel: Noah Goldman, David Priemer, the Yext CEO — all folding under the channel; Brandon Bornancin re-confirmation, 9th straight batch) *(no new market section — the adds deepen the B2B-software-buyer vein and the SMB/local-business-owner vein; framework layer FROZEN at v35)*
+
+**The buyer competes you against the Buy button (Noah Goldman, via Bornancin) → B2B / software buyers [Firm notions — the self-serve default]:** "*They might love you, but if they can hit a Buy button instead of talking to you for 20 minutes, they will.*" The rep is a *net-negative* unless it hands over something the buyer can't get alone — corroborated by David Priemer's live poll: "*70% of buyers say they don't like talking to salespeople.*" `[the deeper mechanism under the "~75–85% don't want to involve a salesperson" stat at line 116: it's not that they hate you, it's that talking to you has to beat clicking Buy — so a cold meeting-ask has to promise an insight self-serve can't give]`
+
+**The rules of how you're found are changing under you (Yext CEO, via Sales Hacker GTMnow) → SMB / local-service owners [Shakeable notions / fears — the AI-search shift]:** the machines doing the finding now "*don't want pretty pictures, drop-down boxes, or navigation fields — they want pure, unfiltered data*," and local businesses — "*dentists, doctors, advisors*" — have to wake up to the fact that "*all the rules of how your product or service is found*" are being rewritten. `[a fresh anxiety vein sitting right on top of RIOA's clients' end-markets (US/UK dental, advisors): the owner's firm belief that "being on Google = being found" is quietly breaking; write to the fear of going invisible in an AI-search world they don't understand yet]`
+
+---
+*Pruned vague one-offs. Mapped to the IVOC 7 buckets so the ivoc-researcher can pull market-matched language directly. This cycle (**v43**, 1 batch — `2026-07-18`): **Brandon Bornancin** [Seamless.ai — counted v33, re-confirmed v34–v42 → the 9th straight Bornancin-dominated batch], but the VOC yield came from **Sales Hacker GTMnow**'s genuinely-new guest desk — **Noah Goldman**, **David Priemer**, and the **Yext CEO** — all folding under the channel. **No new market section** — the adds deepen the B2B-software-buyer vein and the SMB/local-business-owner vein. Added **2 lines**: the buyer-competes-you-against-the-Buy-button self-serve aversion ("if they can hit a Buy button instead of talking to you for 20 minutes, they will" + Priemer's "70% don't like talking to salespeople" — the rep is net-negative unless it beats clicking Buy), and the AI-search-shift anxiety landing on local service businesses ("the rules of how your product or service is found" are being rewritten; machines "want pure, unfiltered data, not pretty pictures" — a fresh fear vein sitting right on RIOA's clients' dental/advisor end-markets). **Dropped as duplicate** — "'I need to think about it' really means they don't believe they'll achieve the outcome" (the stall decode is banked deep at lines 143/205/425/501), the three stalled-deal objections ("too expensive / think about it / do nothing" re-confirm the canonical bank at line 126 + the status-quo-bias vein), "people care about exactly two things — pain or a future state" (banked), and the authenticity self-talk (seller-side, not buyer language). Framework layer **FROZEN at v35**. Next run processes everything newer than `2026-07-18 04:36`.*
+
+---
+
+### v44 — how the buyer reads your cold outreach: the "this is a marketing blast" tell + Josh Braun's named "commission breath" (Sales Hacker GTMnow, 2nd batch — the "1 Email, 2 Takes" desk + Josh Braun [already a counted creator]; Brandon Bornancin re-confirmation, 10th straight batch, book-audio yielded no buyer language) *(no new market section — deepens the cold-email buyer-mindset vein at line 200 and the freelance/service-seller anti-VOC; framework layer FROZEN at v35)*
+
+**The buyer instantly clocks a 1-to-1 fake (the "1 Email, 2 Takes" desk, via Sales Hacker GTMnow) → cold-email recipients / DFY-service buyers [Reactions to AVOID — the spam tell]:** "*This reads like a marketing email, not a one-to-one.*" The tell is mechanical: bullet points plus a bolted-on P.S. offer ("*complimentary $500 course until Oct 31*") — the instant a personal note carries a mass-marketing artifact, the buyer downgrades it to spam and the reply dies. `[the anti-VOC for RIOA's own outreach: a cold email has to read like one human wrote it to one human; the moment it looks templated, trust is gone before the pitch — pairs with the "lead with THEIR trigger, demote housekeeping to a P.S." craft move (swipe, v43)]`
+
+**"Commission breath" — the smell of self-interest-before-theirs, named (Josh Braun, via Sales Hacker GTMnow) → all buyers [Characteristics — the distrust reflex]:** the buyer can smell when your interest comes before theirs, and it kills trust on contact; Josh Braun's label for it is "*commission breath.*" `[this is the quotable NAME for a vein already banked 3× — "buyers smell weakness" (line 163), "neediness is the smell the buyer detects" (line 413), "if they smell that you want to serve them to gain their money" (line 503); the antidote is the neutral, non-leading open (shine-a-light / labeling, swipe v44) that asks about THEM before it mentions you]`
+
+---
+*Pruned vague one-offs. Mapped to the IVOC 7 buckets so the ivoc-researcher can pull market-matched language directly. This cycle (**v44**, 1 batch — `2026-07-19`): **Brandon Bornancin** [Seamless.ai — counted v33, re-confirmed v34–v43 → the 10th straight Bornancin-dominated batch] contributed no buyer language (book-audio = seller mindset); the VOC yield came from **Sales Hacker GTMnow**'s 2nd batch — the "1 Email, 2 Takes" teardown desk and **Josh Braun's** objection-handling masterclass [Braun is already a counted creator]. **No new market section** — the adds deepen the cold-email buyer-mindset vein and the freelance/service-seller anti-VOC. Added **2 lines**: the buyer's "this reads like a marketing email, not a one-to-one" spam-tell (bullets + a bolted-on P.S. offer = the artifact that collapses a 1:1 into spam), and Josh Braun's "commission breath" as the quotable NAME for the already-banked "buyers smell self-interest / neediness" vein (lines 163/413/503). **Dropped as duplicate / reinforced** — "'I'm just looking' is a lie buyers tell to dodge sales pressure" (the brush-off and its decode are banked at lines 132/190), and "commission breath" itself only *names* — it does not re-bank — the three existing smell-of-self-interest lines. **Quarantined out** [seller-side / GTM, not buyer language] — "that's not an objection, that's the truth" (the 30-year-vegan disqualify), the Comcast-retention "treat a truth like an objection and you enrage people" story, and the CFO-vs-marketing-director list-segmentation note. Framework layer **FROZEN at v35**. Next run processes everything newer than `2026-07-19 04:33`.*
+
+---
+
+### v45 — the buyer's cold-email spam-phrase blacklist + AI-outbound fatigue + the "feature-vomit" not-listening complaint (Sales Hacker GTMnow, 3rd straight batch — the "1 Email, 2 Takes" teardown desk, the Consultative-Selling desk, and the GTM-138 AI-personalization ep; Brandon Bornancin yielded no buyer language this cycle) *(no new market section — all three adds deepen the cold-email buyer-mindset vein at line 200 + the B2B-software-buyer bank at line 106; framework layer FROZEN at v35)*
+
+**The exact phrases that trip the buyer's spam filter — a delete-on-sight blacklist (the "1 Email, 2 Takes" desk, via Sales Hacker GTMnow) → cold-email recipients / B2B buyers [Reactions to AVOID — the salesy tells]:** "*I wanted to follow up on my last email*" (adds nothing, pure filler), "*working with companies like yours*" (fake personalization), "*we only have 5 spots available*" (fake scarcity), "*a quick 15-minute call*" ("their eyes glaze over"), and the flat verdict on the congratulatory opener — "*I hate the congratulatory stuff*" ("Noticed your team grew X%, great work!"). `[the phrase-level extension of the v44 "this reads like a marketing email" tell (line 674) — the specific strings to grep out of RIOA's own cold outreach; the funding-trigger version of the congrats-open is banked at line 647]`
+
+**AI-outbound fatigue — the buyer has stopped answering the category (GTM 138, via Sales Hacker GTMnow) → B2B buyers [Characteristics — the tune-out; a currency signal]:** "*I get so many calls from robo-BDR, so many emails, I basically just don't even respond.*" Mass AI-written outreach now correlates with a ~71% drop in outbound performance, and buyers report being *less likely to recommend* a brand whose emails read as machine-generated. `[the response-side of the AI-slop currency flag — it's no longer only that a templated mail reads as spam (v44), it's that the channel itself is going deaf; a cold email now has to earn a reply from a reader who has pre-decided to ignore the whole category]`
+
+**"Feature-vomiting all over me about stuff I didn't care about" — the buyer on the rep who ignored the stated need (Consultative Selling desk, via Sales Hacker GTMnow) → B2B buyers [Reactions to AVOID — the not-listening tell]:** "*He ended up wasting my time feature-vomiting all over me about stuff I didn't care about.*" `[names the exact failure the whole IVOC discipline exists to prevent: the buyer told you what they wanted and you recited your feature list instead — corroborates "they don't want to hear about you… until you prove you can solve their problems" (Copy That! DFY-buyer vein) and the "how does that make you feel" probe in the B2B urgency-tells §]`
+
+---
+*Pruned vague one-offs. Mapped to the IVOC 7 buckets so the ivoc-researcher can pull market-matched language directly. This cycle (**v45**, 1 batch — `2026-07-20`): the **3rd straight Sales Hacker GTMnow-dominated batch** [channel counted v43/v44] — genuinely-new guest desks (the "1 Email, 2 Takes" teardown, the Consultative-Selling desk, the GTM-138 AI-personalization ep) but no new creator to count; **Brandon Bornancin yielded no buyer language this cycle** (the entire extraction is Sales Hacker GTMnow). **No new market section** — all three adds deepen the cold-email / B2B-software-buyer vein. Added **3 lines**: the delete-on-sight spam-phrase blacklist (+ "I hate the congratulatory stuff"), the AI-outbound fatigue tune-out ("robo-BDR… I basically just don't even respond" + the ~71% performance drop), and the "feature-vomiting… stuff I didn't care about" not-listening complaint. **Dropped as duplicate / reinforced** — the "70% don't like talking to salespeople" self-serve aversion (banked v43), the "reads like a marketing email, not a one-to-one" tell (banked v44, line 674), and the funding-trigger "Congrats on your round" open (banked line 647; this cycle's congrats-hatred generalizes it, it does not re-bank it). **Quarantined out** [seller-side / GTM, not buyer language] — "your calendar looks like the Sahara Desert" (a manager describing a rep, not a buyer), "I got tired of asking people for money" (a seller's career-switch story), and the pricing-ops / comp-plan / procurement / gifting material. **Parked (framework-grade, layer frozen v35 — logged, not written):** the two-buyer-pacing read — "*get to the facts*" (jumps to the problem) vs "*get to know you*" (chit-chats first) — read the opener and match their pace; a light buyer-typing frame that sits between VOC and discovery-framework. Framework layer **FROZEN at v35**. Next run processes everything newer than `2026-07-20 04:34`.*
+
+---
+
+### v47 — the market waking up to a broken GTM + the founder burned by a tool that died + the boutique-vs-big-incumbent fears (Sales Hacker GTMnow, 4th & 5th straight batches — Steve Pacinelli's video-selling seam, the cold-email teardown desks, the "580% Roadmap," audience-first founders Adam Robinson & Sheila Vashee; Brandon Bornancin absent a 2nd straight cycle) *(no new market section — the adds deepen the B2B-software-buyer vein at line 106, the founders/operators vein at line 276, and the cold-email buyer-mindset vein at line 200; framework layer FROZEN at v35)*
+
+**The market is waking up to a broken GTM (Adam Robinson, via Sales Hacker GTMnow) → founders / operators [Characteristics — the felt problem]:** "*The way we've been going to market is fundamentally breaking down. Response rates are abysmal, no one's clicking LinkedIn ads, no one's downloading your case study, very few come to your webinar.*" `[the pain that makes an operator go looking — the whole old playbook has stopped paying out; RIOA's opening is the reader who already feels this, not one you have to convince]`
+
+**The stuck founder reaching for anyone farther ahead (Adam Robinson, via Sales Hacker GTMnow) → founders / operators [Desires + Characteristics — the plateau + the hunt for a guide]:** "*When I'd been stuck at $3 million ARR for four years — which is devastating, by the way — I was reaching for anything written by anyone farther ahead than me.*" `[the exact emotional state of the plateaued founder: not lazy, *devastated*, and actively hunting for a guide who's ahead — write as the person who's already been where they're stuck; pairs with the agency-plateau vein at line 283]`
+
+**The buyer burned by a tool that died on the shelf (Steve Pacinelli, via Sales Hacker GTMnow) → B2B / DFY-service buyers [Firm notions / trust-killers — "we tried that, it didn't work"]:** "*We have a [video] product… we actually got it for free… and it didn't work. We tried it and everybody just stopped using it.*" `[RIOA-critical — the AAA/automation buyer's #1 scar: they already bought the tool, it collapsed because nobody wired a system around it, and now "it didn't work" is a firm belief; the antidote is the "1950s telephones — you need training, not the tool" reframe (swipe v47)]`
+
+**The buyer's spam heuristic, verbatim (Steve Pacinelli, via Sales Hacker GTMnow) → cold-email / cold-call recipients [Brush-offs — the instant-delete reflex]:** "*As soon as I read 'can I get 15 minutes of your time,' the heuristic in me just says dump-dump-dump — it's a pitch.*" `[the phrase-level extension of the delete-on-sight spam blacklist (v45, line 685): "15 minutes of your time" self-identifies as a pitch and trips the delete reflex before a word of value lands]`
+
+**The clarity-failure that loses the deal on the call (via Sales Hacker GTMnow — "580% Roadmap") → B2B buyers [Reactions to AVOID — the confusion tell]:** "*We're 20 minutes into the call and I still don't really understand what you guys do.*" `[the anti-VOC for RIOA's own pitch and pages — if the reader can't say what you do in one plain line, you've lost; corroborates the "feature-vomiting… stuff I didn't care about" not-listening complaint (v45, line 689)]`
+
+**The dream/promise no longer sells — they demand a CFO-proof case (via Sales Hacker GTMnow — "Data & Digital Transformation") → B2B buyers / founders [Firm notions — the modern proof bar]:** "*The vision and the dream of the promise is no longer enough*" — the buyer's litmus is now "*would this pass muster with the CFO?*" `[the hardening of the proof bar: aspiration doesn't move the modern buyer, a defensible business case does; corroborates the "made up and bullshit" ROI skepticism (v42) and the champion-arming need — RIOA's proof stack has to survive a CFO, not just inspire a founder]`
+
+**"My inbox is my to-do list" — the buyer's frame for your cold email (via Sales Hacker GTMnow — "1 Email, 2 Takes") → cold-email recipients [Characteristics — how they actually read]:** "*My inbox is my to-do list,*" and the reframe of the seller's job that follows — "*Don't try to make me care about it — try to see if this is something I DO care about.*" `[the buyer isn't browsing, they're triaging tasks — your email either becomes a to-do or gets archived; so it has to attach to something already on their list, not manufacture new interest]`
+
+**The boutique-vs-big-incumbent fears, in the buyer's own words (via Sales Hacker GTMnow — "Less Than 10% of VC Firms Make It to Fund 3") → founders / DFY-service buyers [Objections — why they distrust the big, safe choice]:** "*You're a call option for them.*" / "*Who's going to roll up their sleeves?*" / "*How can I guarantee you'll still be here when I need your help five years from now?*" `[originally founder-objections to big VC, but they are the exact fears to flip FOR RIOA the boutique: the giant agency treats the client as an option and sends juniors; RIOA rolls up its sleeves and is the one who actually shows up — the inverse of the "become the safe choice" move (swipe v43), pointed at the incumbent's soft underbelly]`
+
+**The regret that sells the next buyer (Navin Persaud, via Sales Hacker GTMnow — "GTM 147") → operators [Desires — the "should've started sooner" regret]:** "*The most common regret I hear… is: I wish we'd done this sooner.*" `[the single most reusable testimonial / urgency line for a DFY offer — not "it worked," but "I wish I'd started sooner"; reframes the cost of waiting as the real loss]`
+
+---
+*Pruned vague one-offs. Mapped to the IVOC 7 buckets so the ivoc-researcher can pull market-matched language directly. This cycle (**v47**, 2 batches — `2026-07-22` + `2026-07-23`): the **4th & 5th straight Sales Hacker GTMnow batches** [channel counted v43/v44/v45 → re-confirmation], with **Brandon Bornancin absent a 2nd straight cycle**; after three thin cycles this double-batch opened a rich seam. **No new market section** — the adds deepen the B2B-software-buyer, founders/operators and cold-email buyer-mindset veins. Added **9 lines**: the "our whole GTM is fundamentally breaking down / response rates abysmal" market pain, the "stuck at $3M ARR four years, devastating, reaching for anyone ahead" plateaued-founder state, the "got the tool free and it didn't work, everybody just stopped using it" burned-by-software firm notion (RIOA-critical), the "'15 minutes of your time' → dump-dump-dump, it's a pitch" spam heuristic, the "20 minutes into the call and I still don't understand what you do" clarity-failure, the "vision and the dream is no longer enough → would this pass muster with the CFO?" proof-bar hardening, the "my inbox is my to-do list / don't make me care — see if I DO care" reading frame, the boutique-vs-big-incumbent fears ("you're a call option / who'll roll up their sleeves / will you still be here in 5 years?"), and the "I wish we'd done this sooner" regret line. **Dropped as duplicate / reinforced** — "this has to be too good to be true, explain your business model again" (the believability objection is banked at the "too good to be true" vein) and "the single biggest competitor is the status quo / no decision" (banked deep — the status-quo-bias vein, v37). **Currency flag** — "*Hey, I noticed you started a new job*" as a cold trigger is burned ("in 2025 that's just not differentiating anymore"); joins the congrats-open / funding-trigger blacklist (v43/v45). **Quarantined out** [seller-side / GTM, not buyer language] — "'lead with value' is empty advice" (a rep's confusion, not a buyer's words), the "I'm attracted to pain" seller stance, the gifting "too briby" niche objection, the exec's "what do you REALLY think we'll do" forecast-pressure (a boss to a rep, not a buyer), and the content-enablement "I have 100 pieces, which is right for right now" niche complaint. Framework layer **FROZEN at v35**. Next run processes everything newer than `2026-07-23 04:37`.*
+
+---
+
+## Copy That! markets (primary source · v40 · 2026-07-15)
+*NOT an auto-synth harvest cycle — a manual ingestion from the paid **Copy That!** course (crew: Lindsay Huff, Alex Mater, Sean McIntyre, Rod Satterite + guests incl. Mark Ford/Michael Masterson, Kyle Milligan, Daniel Throssell). These are the genuine end-buyer markets the crew pulled live IVOC on, plus the market the whole course is written for (business owners hiring copywriters/marketers — the single richest RIOA vein here). Verbatim only, mapped to the IVOC 7 buckets. Cited `[Copy That!: <lesson>]`.*
+
+### Market: Senior-dog owners (joint-pain / arthritis-supplement buyers)
+*(the crew's live IVOC demo — the cleanest worked example of "the gold is in the exact emotional quote." RIOA-adjacent as a US pet-health DFY end-market.)*
+
+**Desires / dream outcome**
+- "It's really helped her be able to enjoy walks more and she's got some of her bounciness back." — the exact after-picture (walks + "bounciness"), NOT the competitor's word "mobility." [Copy That!: IVOC Research]
+- "[She's] back to being a puppy." / "I thought my dog would live forever." [Copy That!: Action Alchemy]
+- Keep it affordable + fewer vet visits: "cheaper that way and fewer road trips." [Copy That!: IVOC Research]
+
+**Firm notions (validate, never fight)**
+- "She's truly part of my family." / "my poor baby" / "such a sweet baby" / "the love of my life." (dog = family — the identity to honor) [Copy That!: IVOC Research]
+- "I'm really trying to do my best for her." / "I'm trying my best." — **never tell them they aren't.** [Copy That!: IVOC Research]
+- "I hate arthritis. I also have it, so I know how bad it can feel." (visceral shared pain) [Copy That!: IVOC Research]
+- "I've tried everything… you name it." (multiple solutions failed — attack the failed solutions, never blame the owner) [Copy That!: IVOC Research]
+
+**Shakeable notions (limiting beliefs to flip toward hope)**
+- "Age is starting to catch up to my dog… it's heartbreaking." (the resignation belief you gently flip) [Copy That!: Action Alchemy]
+- "Massaging the legs seems to offer him some relief." (a hopeful *belief*, not a certainty — a shakeable opening) [Copy That!: IVOC Research]
+
+**Identifications**
+- "I'm a good / responsible senior-dog owner — superior to people who don't care for their dogs." (make them feel the hero) [Copy That!: Action Alchemy]
+
+**Characteristics (the pain state — mirror it)**
+- "It's like seeing one of my kids in pain." / "it's difficult watching them when they're in pain." [Copy That!: IVOC Research]
+- "She's struggling getting upstairs." / "Some days are better than others." [Copy That!: IVOC Research]
+- Symptom language to mirror verbatim: "slow and stiff," "stiffness," "wobble on his back legs," "lameness," "slowed down," "lethargic." [Copy That!: IVOC Research]
+
+**Common words / phrases**
+- "baby" · "doggy" · "quality of life" · "part of the family" · "love of my life" · "slowed down" · "stiff" · "hard time" · "tried everything" · "bounciness" · "walks." [Copy That!: IVOC Research]
+
+**Other (competitor objection)**
+- "We have used [competitor] for months and it made no difference to her **mobility**." (note "mobility" is the *competitor's* register — mirror the owner's warmer words instead.) [Copy That!: IVOC Research]
+
+### Market: Hearing-aid buyers (the deeper-benefit market)
+*(Dan Kennedy's canonical deeper-benefit case, taught by the crew — the surface product is "hear better," but the purchase is driven by dignity/autonomy fears a layer beneath. The lesson: deeper benefits come from interviewing real buyers, never the product spec.)*
+
+**Desires (surface)**
+- To hear better / stop asking people to repeat themselves. (the stated want — but NOT what actually moves the sale)
+
+**Characteristics / deeper-benefit fears (the real "why" — dig here)**
+- "being seen as demented / confused" [Copy That!: F&B]
+- "being untrustworthy" [Copy That!: F&B]
+- "not being trusted with the grandkids" [Copy That!: F&B]
+- "being put in a home / sent to an assisted-living facility" [Copy That!: F&B]
+
+**Other (the copy rule this market proves)**
+- Sell the dignity and independence (staying trusted, staying in your own home), never the decibels — the after-picture is "still fully myself," not "clearer sound."
+
+### Market: Dispensing doctors (UK dispensing GPs) + independent pharmacy owners
+*(the "dispensing doctor" market — a distinct credentialed-B2B vein pulled from a DDA rep interview; the copy used their verbatim phrases AS its spine. RIOA-adjacent: a niche medical end-market buying a done-for-you digital fix.)*
+
+**Desires / dream outcome**
+- "**protect your dispensing list**" — their exact phrase for keeping their patient roster; repeat it verbatim, it's the spine of the copy. [Copy That!: Landing Pages]
+- "**Future-proof your pharmacy**" — owners worried whether they'll even have a business in a few years because of digitalization. [Copy That!: Sledgehammer]
+
+**Firm notions**
+- "even though we do a crucial job, patients wouldn't have an alternative if we closed down." (rural, essential-yet-ignored self-image) [Copy That!: Landing Pages]
+
+**Characteristics (the felt reality — mirror it)**
+- "we're hemorrhaging patients to online pharmacies." (patients want something digital) [Copy That!: Landing Pages]
+- "we feel like we're becoming an anomaly and being ignored by the NHS / by our ICBs." [Copy That!: Landing Pages]
+- "ICBs put a lot of pressure on us to sign up to EPS." / "threats of breach of service." [Copy That!: Landing Pages]
+
+**Other (the lose-lose bind = the objection to dissolve)**
+- "if we switch on EPS our patients get un-nominated and go elsewhere; if we don't, we lose them anyway." (the trap the offer must break — a digital order route that keeps patients nominated) [Copy That!: Landing Pages]
+
+### Market: Business owners hiring copywriters / marketers (the DFY-services buyer — RICHEST for RIOA)
+*(the market the entire Copy That! course is written to help you sell into — verbatim on what makes an owner say yes to a done-for-you service. This is exactly RIOA's own buyer: a busy owner buying a result they can't or won't produce. Adjacent to the existing "SMB owners buying DFY" and "freelance copywriters" veins — deduped to the phrases those don't already carry.)*
+
+**Desires / what they actually want**
+- "**A business owner doesn't hire people so they can do more work. They hire people so they can do less work.**" (the core desire — they're buying the *absence* of work off their plate) [Copy That!: Career Co-Pilot]
+- "**A business isn't really looking for a copywriter. They're looking for a way to make their products sell more.**" [Copy That!: Career Co-Pilot]
+- "You want to find people who want to spend money to make more sales, but they don't actually know how to make more sales." (has budget + a goal, no path — the ideal buyer) [Copy That!: Career Co-Pilot]
+- "we just want to grow the business" / "**I don't really know**" how I'll grow the list — owners do NOT ask for "an SEO person + a PPC person"; they want the whole burden taken. [Copy That!: E-Marketer]
+- "People management is one of the biggest headaches of any business owner… **how do you replace yourself?**" (hiring/training as the pain to solve) [Copy That!: Career Co-Pilot]
+
+**Firm notions (validate, don't fight)**
+- "**The client is only going to hire you if they think you can make them money.**" / "the one thing that every one of your clients wants from you is results." [Copy That!: Career Co-Pilot]
+- "Every business is looking to pay someone as little as possible to do as much as possible." [Copy That!: Career Co-Pilot]
+- **Convenience > raw value:** "my convenience of my time is worth more to me than whatever you can deliver… unless the value is just so overwhelming to overcome my aversion to being inconvenienced, I'm not going to hire you." [Copy That!: Career Co-Pilot]
+- **Hiring on vibes (a real CMO):** "one of the biggest things I'm looking for when hiring a freelancer is **vibes**. Do we vibe well together? If you put off bad vibes, you ain't getting hired." [Copy That!: Career Co-Pilot]
+- "If there are two people who are equally good, he's going to go with the one who's **easiest to work with**." [Copy That!: Career Co-Pilot]
+- "Clients, whether they know it or not, often want to read stuff that **sounds like they wrote it** or at least thought of it." (don't override their voice) [Copy That!: Career Co-Pilot]
+
+**Characteristics (the stressed owner's reality — write to THIS, never to "copy")**
+- "Not many decision makers are desperate to improve their copy. Instead they worry about how they're going to get more customers… their profits have flatlined for the last two quarters… they're super stressed because everything is collapsing and they're not sure where to focus." [Copy That!: Career Co-Pilot]
+
+**Other (objections + buying tells in their own words)**
+- **Why "I'll do it for free" backfires (owner POV):** "Free work is better than paid work, isn't it? But… it's going to mean more work for me. If you're offering to do something you've never done before, I know I'm going to have to correct it. And then you've just given me more work. Plus you crunched my deadline." [Copy That!: Career Co-Pilot]
+- **The questionnaire refusal:** "I'm not filling out this questionnaire. I'm busy. I'm hiring you so I can do less work." [Copy That!: Career Co-Pilot]
+- "They don't want to hear about you… they're not going to care about you until you prove you can deliver value and solve their problems." (nobody cares about your bio) [Copy That!: Career Co-Pilot]
+- **The anti-creative reputation you sell against (an account manager):** creatives "are so bought into their own ideas that they don't allow any kind of pushback… don't really get brand voice… fight for every single thing they produce. And that is so annoying to deal with." [Copy That!: Career Co-Pilot]
+- **Grateful reaction to a human, personalized approach:** "I like the cut of your jib." / owners "tend to feel grateful when people are actually a human and interested… instead of just quantity-shoveling tripe." [Copy That!: Career Co-Pilot]
+- **What smaller/mid businesses actually buy:** not "a person who writes words that sell things" but a "**marketing consultant**" who can "handle a huge number of different tasks." (the E-Marketer generalist thesis — sell the whole outcome, not "copy") [Copy That!: Career Co-Pilot]
+
+### Additional Copy That! veins (thinner, but genuine — banked for auditability)
+- **US financial-newsletter retirees (60–70+):** "I worked and saved my whole life only to see Wall Street flush my retirement down the tubes. I feel like I can't win." · "the little guy got shafted by Wall Street." · the WWII "greatest generation" felt "completely neglected and forgotten… unsung heroes." · sophistication note: "they're used to 500%, 700%, 6,000% — 3.3× just doesn't sound like much." · "the only people you attract when you say things are *quick* are investors so unsophisticated they'll never be good customers." [Copy That!: Email/Advertorial][Copy That!: BlackBox Ford]
+- **E-com country-of-origin objection:** "I don't want cheap Chinese goods" / "where was this product made?" (the "made in China" fear to pre-empt on a product page) [Copy That!: Scripting a Modern Ad]
+- **Copywriting-beginner / info-course buyer (Copy That's own audience — maps to aspiring solopreneurs):** the one thing they care about is "**how do I START / launch my career as a copywriter?**" (not tactics); newbie dread "Oh God, do I have to buy a course?"; the quit-spiral "At what point do you accept you're a failure and copywriting just isn't meant to happen for you?"; the 1-star course-buyer objection "stop with the six-figures-in-six-months guff." [Copy That!: Sales Letters][Copy That!: Private Q&A][Copy That!: E-Marketer]
+
+*Copy That! primary-source ingestion (labeled **v40** to stay in sync with the paired `_canon-proposals.md` batch; separate from the auto-synth vN harvest counter). Added **4 full new markets** — senior-dog owners, hearing-aid buyers, dispensing doctors/pharmacy owners, and (richest for RIOA) business owners hiring copywriters/marketers — plus a compact block of 3 thinner veins. Verbatim only, no inventions; deduped against the existing SMB-DFY and freelance-copywriter veins.*

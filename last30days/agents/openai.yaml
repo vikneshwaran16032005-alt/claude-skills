@@ -1,8 +1,7 @@
 interface:
-  display_name: "Last 30 Days"
-  short_description: "Research any topic across Reddit, X, YouTube, and the web from the last 30 days. Returns synthesized expert answers and copy-paste prompts."
-  default_prompt: "Research this topic from the last 30 days across Reddit, X, YouTube, and web. Synthesize what people are actually saying, upvoting, and sharing right now."
-  brand_color: "#FF6B35"
+  display_name: "Last30days"
+  short_description: "Use Last30days workflows and guidance"
+  default_prompt: "Use $last30days for this task."
 
 policy:
   allow_implicit_invocation: true

@@ -1,11 +1,24 @@
 ---
 name: copywriting-master
-description: Master direct-response copywriting system channeling the Copy That crew (Lindsay Huff, Alex Mater, Sean McIntyre, Rod Satterite) and 100+ years of direct-response wisdom from Hopkins (Scientific Advertising), Halbert (Boron Letters), Schwartz (Breakthrough Advertising), Schwab, Masterson/Forde (Great Leads), Caples, Collier, and Albuquerque (16-Word Sales Letter). Use this skill whenever the user wants to write OR revise ANY persuasive content — sales pages, emails, ads, headlines, bullets, sales letters, VSLs, landing pages, Facebook/Google/TikTok/YouTube ads, cold outreach, LinkedIn DMs, product descriptions, advertorials, lift emails, subject lines, CTAs, welcome emails, email sequences, cold DMs, direct mail, order forms, thank-you pages, case studies, proposals, about pages, or brand/marketing copy of any kind. Also use for COPY CRITIQUE, when the user wants feedback on existing copy; for POSITIONING work; for OFFER construction; for IVOC research; for competitor teardowns. Invoke even if the user doesn't say "copywriting" — if the underlying task is to persuade a reader to take an action, this skill applies. Orchestrates IVOC research, competitor research, product analysis (Features→Advantages→Benefits→Deeper Benefits), strategy (awareness + sophistication + positioning + big idea), writing (Hook-Body-Close with OCPB), and three-level editing (value→function→line) using specialized sub-agents.
+description: "Direct-response copywriting system (Copy That crew plus Hopkins, Halbert, Schwartz, Caples) for writing, revising or critiquing any persuasive copy: sales pages, emails, ads, headlines, VSLs, landing pages, cold outreach, DMs, offers and positioning. Use whenever the goal is to get a reader to act, even if the user does not say copywriting."
+
 ---
 
 # Copywriting Master
 
 You are about to channel the combined wisdom of direct-response copywriting's grandmasters, orchestrated the way the Copy That crew would. Every piece produced under this skill must pass the 20 convergent principles in `references/principles.md` — they are the non-negotiables that appear across every master.
+
+## House voice default — RIOA / Vik (permanent, since 2026-06-12)
+
+**Before doing anything else,** check the user identity and the piece's voice:
+
+- If the user is Vik (RIOA Consulting, `vikneshwaranmarimuthu@rioaconsulting.com`) AND the piece is being written AS Vik (his posts, his DMs, his pages, his proposals, his Skool community, his videos, his About-style stories, anything for RIOA's owned channels), READ `references/vik-voice-default.md` IN FULL before writing a single word. That file is the style sheet. **RULE ZERO in that file is the top priority: the copy must always feel like a CONVERSATION — Vik talking to one person, never writing AT a reader.** Its HARD BANS section is the blocker scan; the conversational scan runs even before that.
+
+- If the piece is for a CLIENT in their own voice, or a generic teardown, or the user explicitly named a different voice (e.g. "in Halbert's voice"), skip the Vik-voice file and use the named voice instead.
+
+- If it's ambiguous, ask ONE short question: "Vik voice or other?" — then proceed.
+
+This default applies forever. Updating it: only when Vik says so, The former source profile at `~/OperatorBrain/tenants/rioa/voice-profile.md` is lost (OperatorBrain no longer exists), so `references/vik-voice-default.md` is now canonical. Cross-check `/Users/vik/Personal Brain/references/voice.md` for dated voice evidence.
 
 ## Prime Directives (internalize before writing a single word)
 
@@ -144,6 +157,7 @@ For LARGE pieces, NEVER shortcut. Each phase pays for itself 10× in the output.
 
 ## Reference Files (load as needed)
 
+- `references/vik-voice-default.md` — **PERMANENT house default** when writing as Vik / for RIOA. Style sheet + hard bans (em-dashes banned absolutely, AI-slop cadence banned, income claims banned). Load FIRST when the user is Vik writing as himself.
 - `references/principles.md` — 20 convergent principles (the non-negotiables)
 - `references/frameworks-table.md` — All 40+ named frameworks, one-line each, "when to use"
 - `references/structures.md` — RIOA, HBC, OCPB, DIC, AIDA, 5-part sales letter, each with examples

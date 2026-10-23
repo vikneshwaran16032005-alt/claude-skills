@@ -1,11 +1,25 @@
 ---
 name: find-skills
-description: Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X", "is there a skill that can...", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.
+description: Default skill router. Use FIRST for any complex, multi-step, planning, building, research or content task to pick the best skill or agent: checks active skills, the on-demand skill and agent libraries, plugin skills, then the open skills ecosystem. Also for "find a skill for X" / "is there a skill that can...".
 ---
 
 # Find Skills
 
-This skill helps you discover and install skills from the open agent skills ecosystem.
+This skill picks the right skill for a task. Search what's already installed first; only look externally if nothing local fits.
+
+## Step 0: Check what's installed locally (always do this first)
+
+1. **Active skills and plugin skills**: the skills listed in your system context (including `plugin:skill` names).
+2. **Skill library** (on demand, not auto-loaded): `grep -i "<keywords>" ~/.claude/skill-library/INDEX.md`. To use one, read `~/.claude/skill-library/<name>/SKILL.md` and follow it (its relative paths resolve inside that folder).
+3. **Agent library** (282 specialist roles): `grep -i "<keywords>" ~/.claude/agent-library/agency-agents/INDEX.md`. To use one, read that agent file and adopt it as the role prompt, or pass it into a subagent's prompt.
+
+Pick the single best match (or a short chain, e.g. research skill → writing skill). Tell the user in one line which skill/agent you're using and why, then use it. If nothing local fits, continue to the external search below.
+
+**Before installing anything external:** show the user the source, stars/installs and what it does, review its files for hooks, scripts and network calls, and get a yes. Install new skills to `~/.claude/skill-library/` (and add a row to its `INDEX.md`) unless the user wants it always active.
+
+## External search
+
+This part helps you discover and install skills from the open agent skills ecosystem.
 
 ## When to Use This Skill
 

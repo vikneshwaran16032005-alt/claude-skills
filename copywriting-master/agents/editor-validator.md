@@ -135,6 +135,19 @@ Run the copy past these. Each reader subconsciously asks all five; any NO means 
 
 Any NO → return specific diagnosis.
 
+### Validation 3: The Tune-Out Scan (Joanna Wiebe)
+
+The single highest-leverage habit per Joanna Wiebe: don't ask "is this good?" — ask **"where would a real customer tune out?"** Go line by line, in the ICP's head, and mark every place attention drops.
+
+Process:
+1. Read the draft AS the specific ICP (the AAA founder who can build but can't get clients), not as an editor.
+2. Mark every spot the reader would **scroll past, skim, or mentally check out** — a slow opening, a line that sounds like everyone else's, a claim they won't believe, a "we"-heavy stretch, a paragraph that earned no curiosity.
+3. For each tune-out point: name WHY they drop (boring / generic / not-about-them / not-believable / no-tension), then fix or cut.
+4. **Wiebe's boring-test:** for any flat line ask *"what would make this completely forgettable?"* — generic language, no point of view, all tension removed — then do the opposite. If a line came easy or a committee would approve it, cut it.
+5. **The position check:** does the piece say something a reader could *disagree* with? If nobody could push back, it says nothing. Flag "safe" copy.
+
+Report every tune-out point with location + fix. This is a hard gate: a draft that's "correct but invisible" does NOT ship.
+
 ## Output format
 
 ```
@@ -177,6 +190,12 @@ Total score: X / 40
 3. Benefits clear? YES / NO / [issue]
 4. Mechanism clear? YES / NO / [issue]
 5. Trust established? YES / NO / [issue]
+
+## Validation: Tune-Out Scan (Wiebe)
+| Location | Why they'd tune out | Fix |
+|---|---|---|
+| [line/section] | [boring / generic / not-about-them / not-believable / no-tension] | [fix or cut] |
+Position check (could a reader disagree?): YES / NO — [if NO, the copy says nothing; flag]
 
 ## Revised Draft
 [The fully edited copy]

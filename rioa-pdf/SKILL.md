@@ -1,13 +1,28 @@
 ---
 name: rioa-pdf
-description: "Convert a markdown file into a brand-aligned PDF in RIOA Consulting's house style: Cormorant Garamond serif headings, Jost sans body, charcoal/cream/gold palette, warm editorial feel. Use this skill whenever Vicky asks to ship a deliverable as a PDF, generate a client-facing document, convert markdown to a branded PDF, or produce anything in 'RIOA style' / 'brand style' / 'brand voice PDF'. MANDATORY TRIGGERS: 'rioa pdf', 'brand pdf', 'convert to pdf', 'make this a pdf', 'ship as pdf', 'generate the pdf', 'pdf it', 'rioa style', 'brand style pdf'. STRONG TRIGGERS (when paired with a markdown file or a deliverable): 'in my brand voice', 'in rioa voice', 'using my brand fonts', 'as a printable doc', 'as a client deliverable'. Do NOT trigger on questions ABOUT pdfs (e.g. 'how does pdf generation work?') -- only on requests to actually produce one."
+description: "Convert markdown into a RIOA-branded PDF matching rioaconsulting.com (SITE theme by default; legacy styles only on request). Use for 'rioa pdf', 'brand pdf', 'make this a pdf', 'ship as pdf' or any client-facing document; not for questions about PDFs."
+
 ---
 
 # RIOA PDF Generator
 
-Convert a markdown file into a brand-aligned PDF in RIOA Consulting's house style.
+Convert a markdown file into a brand-aligned PDF in RIOA's house style.
 
-## What this skill does
+## DEFAULT THEME: SITE (decided by Vik 2026-10-13: "match the live site")
+
+The brand source of truth is the live site, rioaconsulting.com. Its CSS tokens (read 2026-10-13): field `#080807`, panel `#10100e`, edge `#29261f`, text `#f4f0e6`, cream `#f0e8d9`, muted `#a39e92`, gold `#b89452`, aura `rgba(168,112,38,.36)`. Type: Instrument Sans (headings 500, body 400, bold 600), Cormorant Garamond italic for emphasis words, Space Mono for code and ledger labels. The fonts in `fonts/` were converted from the site's own woff2 files (OFL licences included). If the site's tokens change, update `_md_to_pdf_site.py` to match; the site wins.
+
+Run (reportlab is not installed system-wide; `uv` supplies it in a cached throwaway env):
+
+```bash
+uv run --no-project --with reportlab python ~/.claude/skills/rioa-pdf/_md_to_pdf_site.py <in.md> <out.pdf> "Title -- italic subtitle" "Client Confidential" "Websites for U.S. local businesses"
+```
+
+Args 3-5 are optional: title (`" -- "` splits an Instrument Sans title from a Cormorant italic subtitle on the cover), footer classification, cover pill text. Page 1 is a site-style cover (wordmark with gold dot, pill eyebrow, large title, soft gold aura); content starts on page 2 with the running header/footer. Verify by rendering pages to PNG (`uv run --no-project --with pymupdf python -c "import pymupdf; ..."`) and looking at them before shipping.
+
+Everything below describes the older themes and the shared renderer behavior (tables, callouts, lists, TOC, SOP cards), which the SITE theme inherits.
+
+## Legacy editorial theme (`_md_to_pdf.py`)
 
 Takes a markdown file. Spits out a print-ready PDF with:
 
@@ -180,3 +195,22 @@ The current canonical converter lives at:
 `E:/linkedin messages/Clients/Aziz (client)/Cold Email Setup/_md_to_pdf.py`
 
 This skill ships a copy of that file. If the canonical version is updated (better features, bug fixes), copy it back into this skill folder so future invocations get the improvements.
+
+---
+
+## LEGACY THEME: NIGHT LEDGER / DAY LEDGER (locked 2026-07-13, superseded by SITE on 2026-10-13; use only if Vik asks)
+
+**Design principle ("First Blood"):** one ink field · one red wound (the vertical cut + node, the day-90 tick — red is INFORMATION, never decoration) · gold ledger craft (rules, ticks, numerals) · bone words. (The philosophy doc lived under `/Users/vik/RIOA/`, which no longer exists.)
+
+**Typography (locked):** Anton (display/H1/H2) · Space Grotesk (body) · Space Mono (code/ledger labels). Fonts ship in `fonts/`.
+
+**Palette:** ink #0d0a0b · blood #8f1116 (titles + the wound) · gold #c39f63 / #d4b884 (headings, accents, chapter label) · bone #e8e0d5 (body) — Night. Day Ledger = paper #f2ece1 field, charcoal body, gold #b08d57, same red wound.
+
+**Renderers (same CLI as the original, plus a 6th arg = chapter number):**
+```bash
+.venv/bin/python _md_to_pdf_nightledger.py <in.md> <out.pdf> "Title -- Subtitle" "Client Deliverable" "FIRST CLIENT SPRINT" "03"
+.venv/bin/python _md_to_pdf_dayledger.py   ...same args...   # light/print version
+```
+Cover = full-bleed page 1 (content starts page 2): giant tone-on-tone chapter numeral, 90-tick day scale, the cut + node, CHAPTER NN lockup. Client deliverables = chapters 00–05 by folder. Use NIGHT for client-facing digital; DAY for print/light contexts. The original charcoal/cream/gold `_md_to_pdf.py` remains for legacy/editorial docs.
+
+**Gotcha:** there is no `.venv` in this skill folder any more. Run any renderer with `uv run --no-project --with reportlab python <script> ...` (reportlab is not in system Python).

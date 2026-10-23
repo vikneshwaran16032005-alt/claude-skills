@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>BRAND — the world of SUBJECT</title>
+  <meta name="description" content="Scroll to fly through the world of BRAND." />
+  <style>
+    /* Theme the engine here. These match your generated scenes' background + palette. */
+    :root, .sw-root {
+      --sw-bg: #F5EDE0;          /* == the scene background colour */
+      --sw-ink: #241d2b;
+      --sw-ink-soft: #6a6072;
+      --sw-accent: #9B7EBD;      /* per-section accents override this at runtime */
+    }
+  </style>
+</head>
+<body>
+  <div id="top"></div>
+  <div id="world">
+    <!-- Static SEO copy: the ONLY crawlable text on the page (the engine renders its
+         copy client-side). Mirror the real section copy here — h1 = hero line, one
+         h2 + p per scene, real CTA links. The engine hides this block on mount. -->
+    <section data-sw-seo>
+      <h1>The hero line.</h1>
+      <p>One-sentence pitch for BRAND — what the world is and why it matters.</p>
+      <h2>Value prop label — Scene A headline</h2>
+      <p>Scene A body sentence.</p>
+      <!-- …one h2 + p per scene… -->
+      <h2>And it all pours into — One perfect thing.</h2>
+      <p>The payoff sentence.</p>
+      <p><a href="#">Get started</a> · <a href="#">See more</a></p>
+    </section>
+  </div>
+
+  <script src="scrub-engine.js"></script>
+  <script>
+    mountScrollWorld(document.getElementById('world'), {
+      brand: { name: 'BRAND', href: '#top' },
+      cta: { label: 'Order now', href: '#finale' },
+      hint: 'scroll to fly in',
+      diveScroll: 1.3,
+      connScroll: 0.9,
+      sections: [
+        // One object per scene, in order. `accent` colours the copy/route for that scene.
+        // First section is the hero (its copy greets on landing); last carries the CTA.
+        {
+          id: 'sceneA', label: 'Scene A',
+          still: 'assets/sceneA.webp',
+          poster: 'assets/sceneA-poster.webp',     // encoded clip's extracted first frame (pipeline §5b)
+          clip: 'assets/vid/sceneA.mp4',
+          clipMobile: 'assets/vid/sceneA-m.mp4',       // mobile tiers only: 720p -g 4 encode, served on phone-class screens
+          posterMobile: 'assets/sceneA-poster-m.webp', // mobile encode's extracted first frame (pipeline §6)
+          accent: '#8FB98A',
+          // scroll: 1.6, linger: 0.45,  // optional pacing: longer dwell; camera settles mid-scene
+          eyebrow: 'Value prop label',
+          title: 'The hero line.',
+          body: 'One plain-spoken sentence about this stage.',
+          tags: ['Proof', 'Proof', 'Proof'],
+        },
+        // …middle scenes…
+        {
+          id: 'finale', label: 'The Product',
+          still: 'assets/product.webp',
+          poster: 'assets/finale-poster.webp',
+          clip: 'assets/vid/finale.mp4',
+          clipMobile: 'assets/vid/finale-m.mp4',
+          posterMobile: 'assets/finale-poster-m.webp',
+          accent: '#9B7EBD',
+          eyebrow: 'And it all pours into',
+          title: 'One perfect thing.',
+          body: 'The payoff sentence.',
+          tags: [],
+          cta: { primary: { label: 'Get started', href: '#' },
+                 secondary: { label: 'See more', href: '#' } },
+        },
+      ],
+      // length === sections.length - 1, in order. Generated per SKILL.md Step 5.
+      connectors: [
+        'assets/vid/conn1.mp4',
+        // 'assets/vid/conn2.mp4', …
+      ],
+      // Mobile beta only: lighter connectors for phones — same length/order as `connectors`.
+      connectorsMobile: [
+        'assets/vid/conn1-m.mp4',
+        // 'assets/vid/conn2-m.mp4', …
+      ],
+    });
+  </script>
+</body>
+</html>

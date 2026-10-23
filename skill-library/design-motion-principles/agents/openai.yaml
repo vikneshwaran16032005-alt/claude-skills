@@ -1,0 +1,7 @@
+interface:
+  display_name: "Design Motion Principles"
+  short_description: "Use Design Motion Principles workflows and guidance"
+  default_prompt: "Use $design-motion-principles for this task."
+
+policy:
+  allow_implicit_invocation: true

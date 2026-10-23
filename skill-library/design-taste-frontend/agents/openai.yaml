@@ -1,0 +1,7 @@
+interface:
+  display_name: "Design Taste Frontend"
+  short_description: "Use Design Taste Frontend workflows and guidance"
+  default_prompt: "Use $design-taste-frontend for this task."
+
+policy:
+  allow_implicit_invocation: true

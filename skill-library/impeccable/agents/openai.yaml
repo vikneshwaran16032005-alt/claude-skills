@@ -1,0 +1,7 @@
+interface:
+  display_name: "Impeccable"
+  short_description: "Use Impeccable workflows and guidance"
+  default_prompt: "Use $impeccable for this task."
+
+policy:
+  allow_implicit_invocation: true
